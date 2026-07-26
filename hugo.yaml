@@ -1,0 +1,58 @@
+baseURL: https://wuliu817-png.github.io/
+locale: zh-CN
+title: 链上第一课
+theme: PaperMod
+
+# 每页文章数
+paginate: 10
+
+# 开启阅读时间
+params:
+  env: production
+  description: "链上第一课 — 币圈新手的入门第一课，专注加密货币入门教程、交易所攻略、安全避坑指南"
+  author: 链上第一课
+
+  # 首页显示
+  homeInfoParams:
+    Title: "链上第一课 🚀"
+    Content: "币圈新手的入门第一课。从零开始，学会安全买币、链上操作、避坑防骗。"
+
+  # 社交链接（可以先空着，后面再加）
+  socialIcons: []
+
+  # 显示阅读时间
+  ShowReadingTime: true
+  # 显示文章目录
+  ShowToc: true
+  # 显示面包屑导航
+  ShowBreadCrumbs: true
+  # 显示分享按钮
+  ShowShareButtons: false
+  # 显示上一篇/下一篇
+  ShowPostNavLinks: true
+  # 代码高亮
+  ShowCodeCopyButtons: true
+
+  # 日期格式
+  dateFormat: "2006-01-02"
+
+# 导航菜单
+menu:
+  main:
+    - identifier: posts
+      name: 文章
+      url: /posts/
+      weight: 1
+    - identifier: tags
+      name: 标签
+      url: /tags/
+      weight: 2
+    - identifier: about
+      name: 关于
+      url: /about/
+      weight: 3
+
+# 开启标签分类
+taxonomies:
+  category: categories
+  tag: tags
