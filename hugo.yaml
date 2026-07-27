@@ -9,7 +9,7 @@ paginate: 10
 # 开启阅读时间
 params:
   env: production
-  description: "CoinTrail 加密指南 — 币圈新手的入门第一课，专注加密货币入门教程、交易所攻略、安全避坑指南"
+  description: "CoinTrail 加密指南 — 加密货币新手入门指南，从交易所注册、钱包安全到链上资产探索"
   author: CoinTrail
 
   # 站点 Logo
@@ -28,7 +28,7 @@ params:
   # 首页显示
   homeInfoParams:
     Title: "CoinTrail 加密指南 🚀"
-    Content: "币圈新手的入门第一课。从零开始，学会安全买币、链上操作、避坑防骗。"
+    Content: "加密货币新手入门指南，从交易所注册、钱包安全到链上资产探索。"
 
   # 社交链接（可以先空着，后面再加）
   socialIcons: []
