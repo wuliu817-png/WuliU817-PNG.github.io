@@ -30,7 +30,7 @@
 
 /* Hero 描述文字 */
 .home-info.hero .entry-content {
-    color: rgba(255, 255, 255, 0.78);
+    color: #4ea8ff;
     font-size: 1.1rem;
     line-height: 1.75;
     max-width: 580px;
@@ -72,5 +72,5 @@
 }
 
 [data-theme="light"] .home-info.hero .entry-content {
-    color: #3d4044;
+    color: #2b7bd6;
 }
