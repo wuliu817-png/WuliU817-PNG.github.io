@@ -27,7 +27,7 @@ params:
 
   # 首页显示
   homeInfoParams:
-    Title: "CoinTrail 加密指南 🚀"
+    Title: "CoinTrail 加密指南"
     Content: "加密货币新手入门指南，从交易所注册、钱包安全到链上资产探索。"
 
   # 社交链接（可以先空着，后面再加）
