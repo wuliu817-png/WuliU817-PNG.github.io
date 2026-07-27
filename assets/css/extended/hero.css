@@ -1,7 +1,7 @@
 /* ========== Hero 封面区域 ========== */
 
 .home-info.hero {
-    background: linear-gradient(135deg, #0d1117 0%, #161b22 40%, #1a1f35 100%);
+    background: url('/images/hero-cover.png') center/cover no-repeat;
     border: 1px solid #30363d;
     border-radius: 16px;
     padding: 52px 32px;
@@ -9,22 +9,21 @@
     text-align: center;
     position: relative;
     overflow: hidden;
+    min-height: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
-/* 背景光晕 */
+/* 暗色半透明遮罩，确保文字可读 */
 .home-info.hero::before {
     content: '';
     position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-    background:
-        radial-gradient(circle at 25% 50%, rgba(0, 255, 196, 0.04) 0%, transparent 50%),
-        radial-gradient(circle at 75% 50%, rgba(168, 85, 247, 0.05) 0%, transparent 50%),
-        radial-gradient(circle at 50% 30%, rgba(78, 168, 255, 0.04) 0%, transparent 40%);
+    inset: 0;
+    background: rgba(13, 17, 23, 0.72);
     pointer-events: none;
     z-index: 0;
+    border-radius: 16px;
 }
 
 .home-info.hero > * {
@@ -55,7 +54,7 @@
 
 /* Hero 描述文字 */
 .home-info.hero .entry-content {
-    color: #8b949e;
+    color: rgba(255, 255, 255, 0.78);
     font-size: 1.1rem;
     line-height: 1.75;
     max-width: 580px;
@@ -99,16 +98,14 @@
 
 /* ========== 浅色模式适配 ========== */
 
-:root[data-theme="light"] .home-info.hero,
-:root[data-theme="auto"] .home-info.hero {
-    /* auto 模式跟随系统，此处仅处理 light 时需要用到的覆盖 */
+[data-theme="light"] .home-info.hero::before {
+    background: rgba(255, 255, 255, 0.65);
 }
 
 [data-theme="light"] .home-info.hero {
-    background: linear-gradient(135deg, #f8f9fa 0%, #e8ecf1 40%, #f0f4ff 100%);
     border-color: #d0d7de;
 }
 
 [data-theme="light"] .home-info.hero .entry-content {
-    color: #57606a;
+    color: #3d4044;
 }
