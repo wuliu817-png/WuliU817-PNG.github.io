@@ -1,6 +1,6 @@
 baseURL: https://swaplyn.com/
 locale: zh-CN
-title: 链上第一课
+title: CoinTrail 加密指南
 theme: PaperMod
 
 # 每页文章数
@@ -9,12 +9,25 @@ paginate: 10
 # 开启阅读时间
 params:
   env: production
-  description: "链上第一课 — 币圈新手的入门第一课，专注加密货币入门教程、交易所攻略、安全避坑指南"
-  author: 链上第一课
+  description: "CoinTrail 加密指南 — 币圈新手的入门第一课，专注加密货币入门教程、交易所攻略、安全避坑指南"
+  author: CoinTrail
+
+  # 站点 Logo
+  label:
+    text: "CoinTrail 加密指南"
+    icon: /images/cointrail-logo.png
+    iconHeight: 36
+
+  # 站点图标
+  assets:
+    favicon: /favicon.png
+    favicon16x16: /favicon-16x16.png
+    favicon32x32: /favicon-32x32.png
+    apple_touch_icon: /apple-touch-icon.png
 
   # 首页显示
   homeInfoParams:
-    Title: "链上第一课 🚀"
+    Title: "CoinTrail 加密指南 🚀"
     Content: "币圈新手的入门第一课。从零开始，学会安全买币、链上操作、避坑防骗。"
 
   # 社交链接（可以先空着，后面再加）
