@@ -1,0 +1,39 @@
+/* ========== 文章内容链接样式 ========== */
+
+/* 移除下划线，改为蓝色 */
+.post-content a,
+.md-content a:not(.anchor) {
+    text-decoration: none;
+    color: #2563eb;
+}
+
+/* hover 时也保留下划线去除，可加轻微变色 */
+.post-content a:hover,
+.md-content a:not(.anchor):hover {
+    color: #1d4ed7;
+    text-decoration: none;
+}
+
+/* ========== 浅色模式 ========== */
+
+[data-theme="light"] .post-content a,
+[data-theme="light"] .md-content a:not(.anchor) {
+    color: #2563eb;
+}
+
+[data-theme="light"] .post-content a:hover,
+[data-theme="light"] .md-content a:not(.anchor):hover {
+    color: #1d4ed7;
+}
+
+/* ========== 深色模式适配（稍亮的蓝） ========== */
+
+[data-theme="dark"] .post-content a,
+[data-theme="dark"] .md-content a:not(.anchor) {
+    color: #60a5fa;
+}
+
+[data-theme="dark"] .post-content a:hover,
+[data-theme="dark"] .md-content a:not(.anchor):hover {
+    color: #93bbfd;
+}
