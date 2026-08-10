@@ -1,1 +1,4 @@
 <meta name="google-site-verification" content="google9de22e855fa4d285" />
+{{- if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+<meta name="robots" content="noindex, follow">
+{{- end }}
