@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /index.xml
+Disallow: /posts/index.xml
+Disallow: /tags/*/index.xml
+Disallow: /categories/*/index.xml
+
+Sitemap: https://swaplyn.com/sitemap.xml
