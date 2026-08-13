@@ -6,6 +6,9 @@ theme: PaperMod
 # 每页文章数
 paginate: 10
 
+# 构建未来日期的文章（避免 UTC 时区导致当天文章被判"未来"而跳过）
+buildFuture: true
+
 # 开启阅读时间
 params:
   env: production
