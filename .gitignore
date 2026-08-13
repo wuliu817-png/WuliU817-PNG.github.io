@@ -1,2 +1,5 @@
 public/
 .hugo_build.lock
+
+# IndexNow 提交状态（本地运行时状态，不入库）
+scripts/.indexnow-submitted.txt
