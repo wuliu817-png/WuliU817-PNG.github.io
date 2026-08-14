@@ -268,7 +268,6 @@ USDT 兑换 ETH 不复杂，选对适合自己的方式就行：
 - [什么是加密货币兑换？新手币币兑换完整指南](/posts/crypto-swap-beginner-guide/) — 兑换基础概念一次讲清
 - [ETH 怎么换 USDT？钱包兑换教程](/posts/eth-to-usdt-guide/) — 反向兑换流程
 - [USDT 转账选哪个网络？ERC20、TRC20、BEP20 区别](/posts/usdt-network-comparison/) — 搞清楚网络怎么选
-- [什么是 Gas 费？以太坊手续费详解](/posts/what-is-gas-fee/) — Gas 费原理和省钱技巧
 - [OKX 欧意注册教程 2026](/posts/okx-register-guide/) — 手把手 OKX 开户指南
 - [币安注册教程 2026](/posts/binance-register-guide/) — 手把手币安开户指南
 
