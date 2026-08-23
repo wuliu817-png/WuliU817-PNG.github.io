@@ -9,6 +9,9 @@ paginate: 10
 # 构建未来日期的文章（避免 UTC 时区导致当天文章被判"未来"而跳过）
 buildFuture: true
 
+# 禁用 RSS 输出（避免生成大量 index.xml 造成薄内容与爬取浪费；发现渠道已有 sitemap + IndexNow）
+disableKinds: ["RSS"]
+
 # 开启阅读时间
 params:
   env: production
