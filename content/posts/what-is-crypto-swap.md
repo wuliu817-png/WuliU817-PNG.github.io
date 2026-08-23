@@ -186,6 +186,7 @@ Swap 本身是成熟的链上操作，但「币在自己手里」是一把双刃
 
 - [什么是加密货币兑换？新手币币兑换完整指南](/posts/crypto-swap-beginner-guide/) — 兑换基础概念一次讲清
 - [加密货币怎么兑换？钱包换币完整教程](/posts/how-to-swap-crypto/) — 换币操作流程
+- [MetaMask 怎么兑换币？内置 Swap 的 0.875% 值不值得付](/posts/metamask-swap-guide/) — 钱包内置 Swap 的费率与选择
 - [USDT 转账选哪个网络？ERC20、TRC20、BEP20 区别](/posts/usdt-network-comparison/) — 换币前先搞懂网络
 - [USDT 怎么兑换 ETH？完整教程与手续费说明](/posts/usdt-to-eth-guide/) — 具体换币教程
 - [币安注册教程 2026](/posts/binance-register-guide/) — 交易所开户流程

@@ -249,7 +249,7 @@ OKX Web3 钱包也有内置兑换，费率以页面显示为准，本文不替�
 
 ### 钱包内置的「兑换」按钮和去 Uniswap 有什么区别？
 
-结果一样，都是链上换币。区别是钱包内置兑换通常额外收一笔服务费（MetaMask 是 0.875%），更方便但更贵；去 Uniswap 直接操作少这一层，但多一步「去网站」。
+结果一样，都是链上换币。区别是钱包内置兑换通常额外收一笔服务费（MetaMask 是 0.875%），更方便但更贵；去 Uniswap 直接操作少这一层，但多一步「去网站」。这笔差价到底值不值得付、多大金额该换路径，见《[MetaMask 怎么兑换币？内置 Swap 的 0.875% 值不值得付](/posts/metamask-swap-guide/)》。
 
 ### 换出来的币能直接转到交易所或转给朋友吗？
 
@@ -275,6 +275,7 @@ OKX Web3 钱包也有内置兑换，费率以页面显示为准，本文不替�
 - [USDT 怎么兑换 ETH？完整教程与手续费说明](/posts/usdt-to-eth-guide/) — USDT 换 ETH 的具体操作
 - [ETH 怎么换 USDT？钱包兑换教程](/posts/eth-to-usdt-guide/) — 反向兑换 + 变现场景
 - [USDT 转账选哪个网络？ERC20、TRC20、BEP20 区别](/posts/usdt-network-comparison/) — 搞清楚链和链的区别
+- [MetaMask 怎么兑换币？内置 Swap 的 0.875% 值不值得付](/posts/metamask-swap-guide/) — 钱包内置兑换的费率真相与决策标准
 - [OKX 欧意注册教程 2026](/posts/okx-register-guide/) — 走交易所路径时的开户指南
 - [币安注册教程 2026](/posts/binance-register-guide/) — 币安开户 + 提币流程
 
