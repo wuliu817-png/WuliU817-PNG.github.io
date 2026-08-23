@@ -34,6 +34,8 @@
     {{- $metaDescription = printf "「%s」主题下的加密货币教程合集，%s 精选文章，帮你搞懂操作步骤、手续费与避坑要点。" .Title site.Title -}}
 {{- else if or .IsPage .IsSection -}}
     {{- $metaDescription = .Summary | default (printf "%s - %s" .Title site.Title) -}}
+{{- else if eq .Kind "404" -}}
+    {{- $metaDescription = "你访问的页面不存在（404），返回首页查看 CoinTrail 加密指南的加密货币新手教程。" -}}
 {{- else -}}
     {{- $metaDescription = site.Params.description -}}
 {{- end -}}
