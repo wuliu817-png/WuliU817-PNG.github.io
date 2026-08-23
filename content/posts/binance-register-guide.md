@@ -245,12 +245,7 @@ USDT（泰达币）是一种"稳定币"，1 USDT ≈ 1 美元 ≈ 7.2 人民币�
 
 注册币安时填写邀请码，你和邀请人都能获得手续费返佣。
 
-| 项目 | 内容 |
-|------|------|
-| **邀请码** | **BN522** |
-| **国际版链接** | [https://www.binance.com/zh-CN/join?ref=BN522](https://www.binance.com/zh-CN/join?ref=BN522) |
-| **国内备用链接** | [https://www.bsmkweb.cc/join?ref=BN522](https://www.bsmkweb.cc/join?ref=BN522) |
-| **返佣比例** | 现货交易手续费最高返佣 **20%** |
+{{< exchange-cta binance="true" >}}
 
 > 💡 通过邀请链接注册，返佣是终身有效的。每笔交易都能省一点，日积月累也是一笔不小的钱。
 

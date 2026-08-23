@@ -65,7 +65,7 @@ OKX 是全球排名前三的加密货币交易所，日均交易量超过 **100�
 
 ### 步骤一：进入OKX官网
 
-👉 [https://www.hnrvqbxkptm.org/join/OK800](https://www.hnrvqbxkptm.org/join/OK800)
+👉 [https://www.topzhjdgxcb.com/join/OK800](https://www.topzhjdgxcb.com/join/OK800)
 
 > 🔑 **关键一步：** 一定要用上面的邀请链接进入注册页面，系统会自动填写邀请码 **OK800**。如果直接在官网注册，就无法享受手续费返佣。
 
@@ -196,11 +196,7 @@ OKX 以合约交易见长。如果你是新手，了解即可，**不建议上�
 
 注册OKX时填写邀请码，你能获得手续费返佣，每笔交易都能省。
 
-| 项目 | 内容 |
-|------|------|
-| **邀请码** | **OK800** |
-| **注册链接** | [https://www.hnrvqbxkptm.org/join/OK800](https://www.hnrvqbxkptm.org/join/OK800) |
-| **返佣比例** | 最高 **40%** 手续费返佣 |
+{{< exchange-cta okx="true" >}}
 
 > 💡 邀请码必须在**首次注册时填写**，注册后无法补填。如果已经注册了OKX但没有填邀请码，需要用新手机号/邮箱重新注册。
 

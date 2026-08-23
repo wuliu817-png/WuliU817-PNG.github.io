@@ -123,7 +123,7 @@ USDT 兑换 ETH，简单说就是**把手中的 USDT 换成以太坊的 ETH**。
 
 ### 第一步：注册并完成 KYC
 
-如果还没有 OKX 账号，通过 [OKX 注册链接](https://www.hnrvqbxkptm.org/join/OK800) 开户，使用邀请码 **OK800** 可以享受手续费返佣。注册后按提示上传身份证完成实名认证，通常几分钟就通过。
+如果还没有 OKX 账号，通过 [OKX 注册链接](https://www.topzhjdgxcb.com/join/OK800) 开户，使用邀请码 **OK800** 可以享受手续费返佣。注册后按提示上传身份证完成实名认证，通常几分钟就通过。
 
 如果更习惯用币安，也可以通过 [币安注册](https://www.bsmkweb.cc/join?ref=BN522) 开户，邀请码 **BN522**。
 

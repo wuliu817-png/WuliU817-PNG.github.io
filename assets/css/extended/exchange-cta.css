@@ -1,0 +1,127 @@
+/* ========== 交易所注册信息框卡片 ========== */
+
+.exchange-cta {
+    margin: 28px 0;
+}
+
+.exchange-cta--grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+}
+
+.exchange-cta__card {
+    border: 1px solid #30363d;
+    border-left-width: 3px;
+    border-radius: 12px;
+    padding: 18px 20px;
+    background: #161b22;
+}
+
+.exchange-cta__card--okx {
+    border-left-color: #4ea8ff;
+}
+
+.exchange-cta__card--binance {
+    border-left-color: #f0b90b;
+}
+
+.exchange-cta__title {
+    font-weight: 700;
+    font-size: 1.05rem;
+    margin-bottom: 8px;
+}
+
+.exchange-cta__text {
+    color: #9da7b3;
+    font-size: 0.95rem;
+    line-height: 1.65;
+    margin: 0 0 14px;
+}
+
+.exchange-cta__text code,
+.exchange-cta__code code {
+    font-weight: 600;
+}
+
+.exchange-cta__actions {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.exchange-cta__btn {
+    display: inline-block;
+    padding: 8px 18px;
+    border-radius: 8px;
+    font-weight: 600;
+    color: #ffffff !important;
+    background: #2563eb !important;
+    text-decoration: none !important;
+}
+
+.exchange-cta__btn--okx:hover {
+    background: #1d4ed7 !important;
+}
+
+.exchange-cta__btn--binance {
+    color: #111827 !important;
+    background: #f0b90b !important;
+}
+
+.exchange-cta__btn--binance:hover {
+    background: #e0ab08 !important;
+}
+
+.exchange-cta__alt {
+    color: #9da7b3 !important;
+    font-size: 0.9rem;
+    text-decoration: none !important;
+}
+
+.exchange-cta__alt:hover {
+    color: #60a5fa !important;
+}
+
+.exchange-cta__code {
+    margin-top: 12px;
+    color: #9da7b3;
+    font-size: 0.9rem;
+}
+
+/* ========== 浅色模式 ========== */
+
+[data-theme="light"] .exchange-cta__card {
+    background: #f6f8fa;
+    border-color: #d0d7de;
+}
+
+[data-theme="light"] .exchange-cta__card--okx {
+    border-left-color: #2563eb;
+}
+
+[data-theme="light"] .exchange-cta__card--binance {
+    border-left-color: #d4a017;
+}
+
+[data-theme="light"] .exchange-cta__text,
+[data-theme="light"] .exchange-cta__code {
+    color: #57606a;
+}
+
+[data-theme="light"] .exchange-cta__alt {
+    color: #57606a !important;
+}
+
+[data-theme="light"] .exchange-cta__alt:hover {
+    color: #1d4ed7 !important;
+}
+
+/* ========== 响应式 ========== */
+
+@media (max-width: 640px) {
+    .exchange-cta--grid {
+        grid-template-columns: 1fr;
+    }
+}

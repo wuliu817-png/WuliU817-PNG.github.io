@@ -1,0 +1,28 @@
+{{- $okx := .Get "okx" | default "false" -}}
+{{- $binance := .Get "binance" | default "false" -}}
+{{- $both := .Get "both" | default "false" -}}
+{{- $showOkx := or (eq $okx "true") (eq $both "true") -}}
+{{- $showBinance := or (eq $binance "true") (eq $both "true") -}}
+<div class="exchange-cta{{ if and $showOkx $showBinance }} exchange-cta--grid{{ end }}">
+  {{- if $showOkx }}
+  <div class="exchange-cta__card exchange-cta__card--okx">
+    <div class="exchange-cta__title">🔷 还没注册 OKX？</div>
+    <p class="exchange-cta__text">用邀请码 <code>OK800</code> 注册，手续费最高返佣 40%，注册后无法补填。</p>
+    <div class="exchange-cta__actions">
+      <a class="exchange-cta__btn exchange-cta__btn--okx" href="https://www.topzhjdgxcb.com/join/OK800" rel="nofollow sponsored">OKX 注册 →</a>
+    </div>
+    <div class="exchange-cta__code">邀请码：<code>OK800</code></div>
+  </div>
+  {{- end }}
+  {{- if $showBinance }}
+  <div class="exchange-cta__card exchange-cta__card--binance">
+    <div class="exchange-cta__title">🔶 还没注册币安？</div>
+    <p class="exchange-cta__text">用邀请码 <code>BN522</code> 注册，手续费最高返佣 20%，终身有效。</p>
+    <div class="exchange-cta__actions">
+      <a class="exchange-cta__btn exchange-cta__btn--binance" href="https://www.bsmkweb.cc/join?ref=BN522" rel="nofollow sponsored">币安注册 →</a>
+      <a class="exchange-cta__alt" href="https://www.binance.com/zh-CN/join?ref=BN522" rel="nofollow sponsored">国际版 →</a>
+    </div>
+    <div class="exchange-cta__code">邀请码：<code>BN522</code></div>
+  </div>
+  {{- end }}
+</div>

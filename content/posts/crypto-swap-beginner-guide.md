@@ -78,7 +78,7 @@ slug: "crypto-swap-beginner-guide"
 
 ### 操作流程
 
-1. **注册交易所**：比如通过 [OKX注册](https://www.hnrvqbxkptm.org/join/OK800) 或 [币安注册](https://www.bsmkweb.cc/join?ref=BN522) 开户
+1. **注册交易所**：比如通过 [OKX注册](https://www.topzhjdgxcb.com/join/OK800) 或 [币安注册](https://www.bsmkweb.cc/join?ref=BN522) 开户
 2. **完成 KYC**：上传身份证，几分钟通过
 3. **充值 USDT**：通过 C2C 用人民币买 USDT
 4. **币币兑换**：在交易页面选择 USDT/ETH 交易对，输入数量，点击买入
