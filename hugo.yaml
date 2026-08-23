@@ -12,6 +12,13 @@ buildFuture: true
 # 禁用 RSS 输出（避免生成大量 index.xml 造成薄内容与爬取浪费；发现渠道已有 sitemap + IndexNow）
 disableKinds: ["RSS"]
 
+# 用 git 提交时间作为 lastmod/dateModified 的真实来源（文章发布后再修改，日期也会随提交自动更新，不编造日期）
+enableGitInfo: true
+
+# lastmod 取值顺序：git 提交时间 → frontmatter 的 lastmod → date
+frontmatter:
+  lastmod: [":git", "lastmod", "date"]
+
 # 开启阅读时间
 params:
   env: production

@@ -24,6 +24,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: true
+          # 拉取完整 git 历史，供 enableGitInfo 计算每篇文章真实的 lastmod/dateModified
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -51,3 +53,29 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # 发版后把 sitemap 中的新 URL 推给 Bing（IndexNow）
+  indexnow:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Wait for sitemap to be live
+        run: |
+          for i in $(seq 1 12); do
+            if curl -sf https://swaplyn.com/sitemap.xml >/dev/null; then
+              echo "sitemap is live"; exit 0
+            fi
+            sleep 5
+          done
+          echo "sitemap not live after 60s" && exit 1
+
+      - name: Submit new URLs to IndexNow
+        run: python3 scripts/indexnow-submit.py
