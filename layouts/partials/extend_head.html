@@ -2,3 +2,25 @@
 {{- if or (eq .Kind "taxonomy") (eq .Kind "term") }}
 <meta name="robots" content="noindex, follow">
 {{- end }}
+{{- /* FAQPage 结构化数据：仅当页面 frontmatter 声明 faq 数组时输出，问答必须与正文可见内容一致 */ -}}
+{{- if .Params.faq }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+  {{- range $i, $item := .Params.faq }}
+    {{- if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $item.q | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $item.a | jsonify }}
+      }
+    }
+  {{- end }}
+  ]
+}
+</script>
+{{- end }}

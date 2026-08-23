@@ -5,6 +5,19 @@ tags: ["MetaMask", "小狐狸钱包", "钱包兑换", "Swap", "手续费", "Unis
 categories: ["钱包兑换教程"]
 description: "MetaMask 内置 Swap 收 0.875% 服务费，而 Uniswap 官方前端 2026 年已取消界面费。这篇算清两条路的真实差价、免 Gas 兑换的适用条件，给出按金额判断的决策标准。"
 slug: "metamask-swap-guide"
+faq:
+  - q: 'MetaMask 兑换收多少手续费？'
+    a: '内置 Swap 收 0.875% 服务费，已经含在报价汇率里，不会单列成一行。这之外还有池子费和 Gas，那两笔跟 MetaMask 无关。用 MetaMask 连接 Uniswap 等 DApp 兑换时，MetaMask 不收这笔费。'
+  - q: '用 MetaMask 内置 Swap 比去 Uniswap 贵多少？'
+    a: '2026 年 8 月的情况是贵 0.875%——因为 Uniswap 官方前端已取消界面费。$1,000 的兑换差约 $8.75，$10,000 差约 $87.5。金额越大差得越多。'
+  - q: '免 Gas 兑换是真的不花钱吗？'
+    a: '不是。它解决的是「钱包里没有原生币付 Gas」的问题，费用通常从你换出的代币里扣。MetaMask 没有公开这部分的具体计费方式，判断办法只有一个：看「最少收到」的数字，和普通模式对比。'
+  - q: 'MetaMask 现在能换 SOL 和 BTC 吗？'
+    a: '能。官方帮助页列出的兑换支持网络包括 Ethereum、Bitcoin、Solana、Tron、Linea、Base、Polygon、BNB Chain、Arbitrum、OP、Avalanche、zkSync Era、Sei 等。跨链兑换由 Li.fi 和 Socket 两个聚合器路由，底层用到 Across、Stargate、Relay、Mayan、CCTP 等桥。跨链会多一层桥接成本和风险，金额大时要格外谨慎。'
+  - q: '为什么我的兑换在 Etherscan 上查不到？'
+    a: '如果开了 Smart Transactions，交易在待处理阶段走的是虚拟内存池，第三方浏览器看不到，上链确认后才会出现。等几分钟，期间别重复提交。'
+  - q: '内置 Swap 和连 Uniswap，哪个更安全？'
+    a: '链上风险两者一样（都是和流动性池成交）。差别在人为风险：内置 Swap 不用输网址，避免了钓鱼站；连 DApp 则需要你自己确认域名真假。新手建议先用内置 Swap，同时把 Uniswap 官网加进书签，熟悉之后再切换。'
 ---
 
 ## 30 秒看懂

@@ -1,0 +1,51 @@
+# CoinTrail 加密指南
+
+> 面向加密货币新手的入门教程站：交易所注册、钱包安全、币币兑换、USDT 转账与手续费避坑。
+
+CoinTrail 加密指南（swaplyn.com）是一份中文加密货币新手教程。内容聚焦「经验差 + 决策」：不堆信息差，而是讲清每一步怎么操作、手续费怎么算、坑在哪里、什么时候该用哪个工具。所有文章均为纯静态 HTML，正文可直接抓取；关键结论以自包含段落和表格呈现，方便 AI 引用。
+
+## 核心页面
+
+- [首页](https://swaplyn.com/)：站点概览与最新文章
+- [全部文章](https://swaplyn.com/posts/)：按时间排序的教程合集
+- [关于](https://swaplyn.com/about/)：站点定位与内容范围
+
+## 文章索引
+
+### 交易所教程
+
+- [币安注册教程2026：手把手教你开户、充值、安全交易](https://swaplyn.com/posts/binance-register-guide/)：币安全流程注册，含 KYC、充值买 U、安全设置与邀请码 BN522 返佣
+- [OKX欧意注册教程2026：手把手教你开户、充值、合约交易](https://swaplyn.com/posts/okx-register-guide/)：OKX 注册与合约入门，含邀请码 OK800 返佣
+- [币安 vs OKX 深度对比2026](https://swaplyn.com/posts/binance-vs-okx/)：手续费、返佣、C2C 入金、KYC、新手体验全面对比
+- [币安买美股靠谱吗？2026 现状 + 风险提示](https://swaplyn.com/posts/binance-us-stocks-2026/)：币安股票代币的三种方式、真实手续费与中文用户法律风险
+
+### 入门教程
+
+- [币圈新人入门：从零开始的加密货币之旅](https://swaplyn.com/posts/crypto-beginner-guide/)：比特币是什么、怎么安全开始投资
+
+### 加密货币兑换指南
+
+- [什么是加密货币兑换？新手币币兑换完整指南](https://swaplyn.com/posts/crypto-swap-beginner-guide/)：钱包 Swap 与交易所兑换的区别、操作流程与注意事项
+- [Swap 是什么意思？链上兑换和交易所交易有什么区别（2026）](https://swaplyn.com/posts/what-is-crypto-swap/)：Swap 的本质、与交易所成交机制的差异、适用场景判断
+- [加密货币怎么兑换？钱包换币完整教程（2026）](https://swaplyn.com/posts/how-to-swap-crypto/)：钱包换币全流程，含 Gas、滑点、价格影响与手续费
+
+### 钱包兑换教程
+
+- [MetaMask 怎么兑换币？内置 Swap 的 0.875% 值不值得付（2026）](https://swaplyn.com/posts/metamask-swap-guide/)：MetaMask 内置 Swap 与 Uniswap 前端真实差价、免 Gas 兑换条件
+
+### USDT 兑换系列
+
+- [ETH 怎么换 USDT？钱包 Swap 和交易所卖出两种方式对比（2026）](https://swaplyn.com/posts/eth-to-usdt-guide/)：ETH 换 USDT 的两条路、链选择、分批策略与手续费
+- [USDT 怎么兑换 BTC？三种方式与 WBTC 陷阱（2026）](https://swaplyn.com/posts/usdt-to-btc-guide/)：交易所、钱包 Swap、跨链三种方式的区别与 WBTC 避坑
+- [USDT怎么兑换ETH？2026完整教程、手续费和注意事项](https://swaplyn.com/posts/usdt-to-eth-guide/)：USDT 换 ETH 的操作流程与手续费对比
+
+### 网络与手续费
+
+- [USDT 转账选哪个网络？ERC20、TRC20、BEP20 区别与手续费对比（2026）](https://swaplyn.com/posts/usdt-network-comparison/)：三大网络手续费、到账速度、安全性与选错丢币避坑
+
+## 元信息
+
+- 站点语言：zh-CN（中文）
+- 站点域名：https://swaplyn.com/
+- 生成方式：Hugo 静态生成，随 git 提交自动部署到 GitHub Pages
+- sitemap：https://swaplyn.com/sitemap.xml
