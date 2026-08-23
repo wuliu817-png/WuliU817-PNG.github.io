@@ -1,0 +1,10 @@
+{{- $u := urls.Parse .Destination -}}
+{{- $host := $u.Host -}}
+{{- $path := $u.Path -}}
+{{- $isAffiliate := false -}}
+{{- if or (eq $host "www.topzhjdgxcb.com") (eq $host "topzhjdgxcb.com") (eq $host "www.bsmkweb.cc") (eq $host "bsmkweb.cc") (eq $host "www.hnrvqbxkptm.org") (eq $host "hnrvqbxkptm.org") -}}
+  {{- $isAffiliate = true -}}
+{{- else if and (or (eq $host "www.binance.com") (eq $host "binance.com")) (in $path "/join") -}}
+  {{- $isAffiliate = true -}}
+{{- end -}}
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $isAffiliate }} rel="nofollow sponsored"{{ end }}>{{ .Text | safeHTML }}</a>
