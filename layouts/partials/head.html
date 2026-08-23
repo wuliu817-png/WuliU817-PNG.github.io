@@ -1,14 +1,17 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-{{- if hugo.IsProduction | or (eq site.Params.env "production") | and (ne .Params.robotsNoIndex true) }}
+{{- if and (hugo.IsProduction | or (eq site.Params.env "production")) (ne .Params.robotsNoIndex true) (ne .Kind "404") }}
 <meta name="robots" content="index, follow">
 {{- else }}
 <meta name="robots" content="noindex, nofollow">
 {{- end }}
 
+{{- /* 分页列表页（第 2 页起）：追加页码，避免与第 1 页标题重复。仅列表页支持 Paginator，用 .Kind 精确判定并短路，避免 404/单页报错 */ -}}
+{{- $isPaginated := and (in (slice "home" "section" "taxonomy" "term") .Kind) (gt .Paginator.PageNumber 1) -}}
+
 {{- /* Title */}}
-<title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ site.Title }}</title>
+<title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ site.Title }}{{ if $isPaginated }} - 第 {{ .Paginator.PageNumber }} 页{{ end }}</title>
 
 {{- /* Meta */}}
 {{- if .IsHome }}
@@ -34,9 +37,14 @@
 {{- else -}}
     {{- $metaDescription = site.Params.description -}}
 {{- end -}}
+{{- /* 分页页追加页码，避免与第 1 页的 meta description 重复 */ -}}
+{{- if $isPaginated -}}{{- $metaDescription = printf "%s - 第 %d 页" $metaDescription .Paginator.PageNumber -}}{{- end -}}
 <meta name="description" content="{{ $metaDescription }}">
 <meta name="author" content="{{ (partial "author.html" . ) }}">
-<link rel="canonical" href="{{ if .Params.canonicalURL -}} {{ trim .Params.canonicalURL " " }} {{- else -}} {{ .Permalink }} {{- end }}">
+{{- /* 分页页使用自身 URL 作为 canonical，而非指向第 1 页（否则会被搜索引擎判定为重复标题） */ -}}
+{{- $canonicalURL := .Permalink -}}
+{{- if $isPaginated -}}{{- $canonicalURL = .Paginator.URL | absURL -}}{{- end -}}
+<link rel="canonical" href="{{ if .Params.canonicalURL -}} {{ trim .Params.canonicalURL " " }} {{- else -}} {{ $canonicalURL }} {{- end }}">
 {{- if site.Params.analytics.google.SiteVerificationTag }}
 <meta name="google-site-verification" content="{{ site.Params.analytics.google.SiteVerificationTag }}">
 {{- end }}
