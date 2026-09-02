@@ -15,7 +15,12 @@
 {{- end }}
 {{- end }}
 
-{{- with or .Title site.Title site.Params.title | plainify }}
+{{- /* twitter:title 与 head.html 的 <title> 保持一致：分页页追加页码，避免与第 1 页重复 */ -}}
+{{- $twTitle := or .Title site.Title site.Params.title -}}
+{{- if and (in (slice "home" "section" "taxonomy" "term") .Kind) (gt .Paginator.PageNumber 1) -}}
+  {{- $twTitle = printf "%s - 第 %d 页" $twTitle .Paginator.PageNumber -}}
+{{- end -}}
+{{- with $twTitle | plainify }}
   <meta name="twitter:title" content="{{ . }}">
 {{- end }}
 

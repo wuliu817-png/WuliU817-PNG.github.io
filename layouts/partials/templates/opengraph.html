@@ -4,7 +4,12 @@
   <meta property="og:site_name" content="{{ . }}">
 {{- end }}
 
-{{- with or .Title site.Title site.Params.title | plainify }}
+{{- /* og:title 与 head.html 的 <title> 保持一致：分页页追加页码，避免与第 1 页重复 */ -}}
+{{- $ogTitle := or .Title site.Title site.Params.title -}}
+{{- if and (in (slice "home" "section" "taxonomy" "term") .Kind) (gt .Paginator.PageNumber 1) -}}
+  {{- $ogTitle = printf "%s - 第 %d 页" $ogTitle .Paginator.PageNumber -}}
+{{- end -}}
+{{- with $ogTitle | plainify }}
   <meta property="og:title" content="{{ . }}">
 {{- end }}
 
