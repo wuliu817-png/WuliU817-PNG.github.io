@@ -57,3 +57,5 @@ description: "刚接触加密货币？这篇文章带你从零开始，搞清楚
 - [币安注册教程2026](/posts/binance-register-guide/) — 手把手币安开户指南
 - [OKX欧意注册教程2026](/posts/okx-register-guide/) — 手把手OKX开户指南
 - [币安 vs OKX 深度对比2026](/posts/binance-vs-okx/) — 哪个交易所更适合你
+- [什么是加密货币兑换？新手币币兑换完整指南](/posts/crypto-swap-beginner-guide/) — 学会用币换币
+- [USDT 转账选哪个网络？ERC20、TRC20、BEP20 区别](/posts/usdt-network-comparison/) — 转账前先搞懂网络

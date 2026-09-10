@@ -164,6 +164,7 @@ slug: "binance-vs-okx"
 
 - [币安注册教程2026](/posts/binance-register-guide/) — 手把手币安开户指南
 - [OKX欧意注册教程2026](/posts/okx-register-guide/) — 手把手OKX开户指南
+- [币安买美股靠谱吗？2026 现状 + 风险提示](/posts/binance-us-stocks-2026/) — 币安还能买美股，靠谱吗
 - [币圈新人入门：从零开始的加密货币之旅](/posts/crypto-beginner-guide/) — 小白入门第一课
 
 **推荐学习社区：**

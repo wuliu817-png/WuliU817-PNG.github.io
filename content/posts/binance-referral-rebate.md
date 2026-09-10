@@ -168,7 +168,8 @@ faq:
 
 - [币安邀请码：推荐码怎么填、返佣怎么算](/posts/binance-referral-code/) — 邀请码是什么、在哪填
 - [币安怎么查自己有没有邀请人](/posts/binance-check-referrer/) — 先确认自己的返佣绑没绑上
-- [币安手续费是多少](/posts/binance-fees/) — 现货、合约、BNB 抵扣的完整费率
+- [币安手续费是多少？现货、合约、提币费率一次讲清](/posts/binance-fees/) — 返佣之外，BNB 抵扣和完整费率
+- [币安返佣多久到账](/posts/binance-referral-payout-time/) — 算清楚返佣后，什么时候能到账
 
 **参考资料**：[币安官方支持中心](https://www.binance.com/zh-CN/support)
 

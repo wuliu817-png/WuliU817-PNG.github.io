@@ -189,15 +189,17 @@ USDT 在 Ethereum、Tron、BSC 等多条链上都有。你用 ERC20 的 USDT 往
 2. **熟悉后**：尝试钱包 Swap，体验 DeFi 的便利
 3. **安全底线**：小额测试、检查网络、管理授权
 
-接下来我们会发布更多具体教程：USDT 怎么换 ETH、MetaMask 怎么 Swap、手续费怎么省——把兑换这件事彻底讲透。
+更具体的操作看这三篇：[USDT 怎么兑换 ETH](/posts/usdt-to-eth-guide/)、[MetaMask 怎么 Swap](/posts/metamask-swap-guide/)、[USDT 转账选哪个网络省手续费](/posts/usdt-network-comparison/)。
 
 ---
 
 **相关阅读：**
 
-- [币安注册教程2026](/posts/binance-register-guide/) — 手把手币安开户指南
-- [OKX欧意注册教程2026](/posts/okx-register-guide/) — 手把手OKX开户指南
-- [币安 vs OKX 深度对比2026](/posts/binance-vs-okx/) — 哪个交易所更适合你
+- [Swap 是什么意思？链上兑换和交易所交易有什么区别](/posts/what-is-crypto-swap/) — 兑换的本质与成交机制
+- [加密货币怎么兑换？钱包换币完整教程](/posts/how-to-swap-crypto/) — 钱包换币的六步操作
+- [MetaMask 怎么兑换币？内置 Swap 的 0.875% 值不值得付](/posts/metamask-swap-guide/) — 钱包内置兑换的费率真相
+- [USDT 怎么兑换 ETH？完整教程与手续费说明](/posts/usdt-to-eth-guide/) — 具体兑换对的操作
+- [币安注册教程2026](/posts/binance-register-guide/) — 走交易所兑换路径时的开户指南
 
 **参考来源：**
 

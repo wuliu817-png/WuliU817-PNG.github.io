@@ -215,9 +215,10 @@ faq:
 
 **下一步推荐：**
 
-- [币圈新人入门：从零开始的加密货币之旅](/posts/crypto-beginner-guide/) — 刚接触币圈，先补基础概念
+- [币安邀请码：推荐码怎么填、返佣怎么算](/posts/binance-referral-code/) — 注册时邀请码填对，返佣才生效
 - [币安 vs OKX 深度对比](/posts/binance-vs-okx/) — 还没定选哪家，先看这篇
 - [USDT 怎么买 BTC](/posts/usdt-to-btc-guide/) — 账户开好，第一笔交易怎么下
+- [币圈新人入门：从零开始的加密货币之旅](/posts/crypto-beginner-guide/) — 刚接触币圈，先补基础概念
 
 **免责声明**：本文不构成投资建议。加密货币价格波动大、风险高，请只用闲钱参与，量力而行。18 岁以下请勿参与加密货币交易。
 
