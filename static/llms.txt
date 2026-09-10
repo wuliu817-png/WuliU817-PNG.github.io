@@ -18,6 +18,12 @@ CoinTrail 加密指南（swaplyn.com）是一份中文加密货币新手教程�
 - [OKX欧意注册教程2026：手把手教你开户、充值、合约交易](https://swaplyn.com/posts/okx-register-guide/)：OKX 注册与合约入门，含邀请码 OK800 返佣
 - [币安 vs OKX 深度对比2026](https://swaplyn.com/posts/binance-vs-okx/)：手续费、返佣、C2C 入金、KYC、新手体验全面对比
 - [币安买美股靠谱吗？2026 现状 + 风险提示](https://swaplyn.com/posts/binance-us-stocks-2026/)：币安股票代币的三种方式、真实手续费与中文用户法律风险
+- [币安邀请码：推荐码怎么填、返佣怎么算（2026）](https://swaplyn.com/posts/binance-referral-code/)：邀请码（推荐码）BN522 在哪填、手续费返佣 20% 怎么算
+- [币安邀请码在哪里填写？网页和 App 注册步骤（2026）](https://swaplyn.com/posts/binance-referral-code-where/)：网页和 App 注册页的邀请码输入框位置、邀请链接自动带出的省事办法
+- [币安邀请码 20% 返佣是什么意思？手续费返现怎么算（2026）](https://swaplyn.com/posts/binance-referral-rebate/)：返的是手续费不是本金、与 BNB 抵扣的叠加算法
+- [币安返佣多久到账？手续费返现不到账怎么办（2026）](https://swaplyn.com/posts/binance-referral-payout-time/)：返佣实测 2 小时内到现货账户、按原币种结算、不到账的排查
+- [币安怎么查自己有没有邀请人？推荐关系在哪里看（2026）](https://swaplyn.com/posts/binance-check-referrer/)：App 和网页端查推荐关系的位置、查不到说明什么、没邀请人怎么办
+- [币安没填邀请码怎么办？补填与重新绑定（2026）](https://swaplyn.com/posts/binance-referral-code-backfill/)：30 天内补绑、老用户换绑（Rebind）的条件与门槛
 
 ### 入门教程
 
