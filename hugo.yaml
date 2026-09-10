@@ -22,7 +22,9 @@ frontmatter:
 # 开启阅读时间
 params:
   env: production
-  description: "CoinTrail 加密指南 — 加密货币新手入门指南，从交易所注册、钱包安全到链上资产探索"
+  description: "CoinTrail 加密指南是面向中文用户的加密货币新手教程站，专注把每一步操作讲清楚：币安、OKX 注册开户与 KYC，现货合约手续费与返佣怎么算，USDT 转账选哪个网络更省钱，钱包怎么兑换币，以及新手最容易踩的坑。所有费率和规则均核实至 2026 年 9 月，看完就能上手。"
+  # 首页 <title> 用更长的描述性标题（Bing 提示标题过短），其余页面仍用「页面标题 | 站点名」
+  homeTitle: "CoinTrail 加密指南｜加密货币新手入门教程：交易所注册、手续费返佣、USDT 转账、钱包兑换"
   author: CoinTrail
 
   # 站点 Logo

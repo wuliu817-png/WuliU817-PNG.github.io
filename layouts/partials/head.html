@@ -11,7 +11,7 @@
 {{- $isPaginated := and (in (slice "home" "section" "taxonomy" "term") .Kind) (gt .Paginator.PageNumber 1) -}}
 
 {{- /* Title */}}
-<title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ site.Title }}{{ if $isPaginated }} - 第 {{ .Paginator.PageNumber }} 页{{ end }}</title>
+<title>{{ if .IsHome }}{{ site.Params.homeTitle | default site.Title }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ site.Title }}{{ end }}{{ if $isPaginated }} - 第 {{ .Paginator.PageNumber }} 页{{ end }}</title>
 
 {{- /* Meta */}}
 {{- if .IsHome }}

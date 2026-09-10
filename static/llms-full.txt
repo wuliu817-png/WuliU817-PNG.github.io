@@ -16,7 +16,7 @@ CoinTrail 加密指南（swaplyn.com）是一份中文加密货币新手教程�
 
 ### 交易所教程
 
-- [币安注册教程2026：手把手教你开户、充值、安全交易](https://swaplyn.com/posts/binance-register-guide/)
+- [币安注册教程：开户、KYC、邀请码一次讲清（2026）](https://swaplyn.com/posts/binance-register-guide/)
   - 发布：2026-07-26 ｜ 分类：交易所教程
   - 摘要：2026最新币安注册全流程，从开户、KYC认证、充值买U到安全设置，每一步都讲清楚。附币安邀请码BN522，享手续费返佣。
 

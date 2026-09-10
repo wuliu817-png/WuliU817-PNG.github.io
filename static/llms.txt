@@ -14,9 +14,9 @@ CoinTrail 加密指南（swaplyn.com）是一份中文加密货币新手教程�
 
 ### 交易所教程
 
-- [币安注册教程2026：手把手教你开户、充值、安全交易](https://swaplyn.com/posts/binance-register-guide/)：币安全流程注册，含 KYC、充值买 U、安全设置与邀请码 BN522 返佣
+- [币安注册教程：开户、KYC、邀请码一次讲清（2026）](https://swaplyn.com/posts/binance-register-guide/)：币安全流程注册，含 KYC、充值买 U、安全设置与邀请码 BN522 返佣
 - [OKX欧意注册教程2026：手把手教你开户、充值、合约交易](https://swaplyn.com/posts/okx-register-guide/)：OKX 注册与合约入门，含邀请码 OK800 返佣
-- [币安 vs OKX 深度对比2026](https://swaplyn.com/posts/binance-vs-okx/)：手续费、返佣、C2C 入金、KYC、新手体验全面对比
+- [币安 vs OKX 深度对比2026：手续费、返佣、新手体验全解析](https://swaplyn.com/posts/binance-vs-okx/)：手续费、返佣、C2C 入金、KYC、新手体验全面对比
 - [币安买美股靠谱吗？2026 现状 + 风险提示](https://swaplyn.com/posts/binance-us-stocks-2026/)：币安股票代币的三种方式、真实手续费与中文用户法律风险
 - [币安邀请码：推荐码怎么填、返佣怎么算（2026）](https://swaplyn.com/posts/binance-referral-code/)：邀请码（推荐码）BN522 在哪填、手续费返佣 20% 怎么算
 - [币安邀请码在哪里填写？网页和 App 注册步骤（2026）](https://swaplyn.com/posts/binance-referral-code-where/)：网页和 App 注册页的邀请码输入框位置、邀请链接自动带出的省事办法
