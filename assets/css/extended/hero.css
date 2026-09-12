@@ -1,7 +1,11 @@
 /* ========== Hero 封面区域 ========== */
 
 .home-info.hero {
-    background: url('/images/hero-cover.png') center/cover no-repeat;
+    background:
+        radial-gradient(ellipse at 12% 0%, rgba(0, 230, 176, 0.16), transparent 55%),
+        radial-gradient(ellipse at 88% 100%, rgba(168, 85, 247, 0.20), transparent 55%),
+        radial-gradient(ellipse at 100% 12%, rgba(78, 168, 255, 0.15), transparent 50%),
+        linear-gradient(160deg, #101820 0%, #0d1117 55%, #0a0d12 100%);
     border: 1px solid #30363d;
     border-radius: 16px;
     padding: 52px 32px;
