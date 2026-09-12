@@ -26,7 +26,7 @@ CoinTrail 加密指南（swaplyn.com）是一份中文加密货币新手教程�
 - [币安返佣多久到账？手续费返现不到账怎么办（2026）](https://swaplyn.com/posts/binance-referral-payout-time/)：返佣实测 2 小时内到现货账户、按原币种结算、不到账的排查
 - [币安怎么查自己有没有邀请人？推荐关系在哪里看（2026）](https://swaplyn.com/posts/binance-check-referrer/)：App 和网页端查推荐关系的位置、查不到说明什么、没邀请人怎么办
 - [币安没填邀请码怎么办？补填与重新绑定（2026）](https://swaplyn.com/posts/binance-referral-code-backfill/)：30 天内补绑、老用户换绑（Rebind）的条件与门槛
-- [币安怎么买 USDT？C2C 买币教程与避坑（2026）](https://swaplyn.com/posts/binance-buy-usdt/)：买 USDT 走 C2C，平台不收手续费、价差才是成本；快捷区/自选区怎么选、商家怎么筛、付款红线，以及买完超 2000 美元部分冻结 24 小时的 T+1 规则
+- [币安怎么买 USDT？C2C 买币教程与避坑（2026）](https://swaplyn.com/posts/binance-buy-usdt/)：人民币买 U 最常见是走 C2C；快捷区/自选区怎么选、广告方怎么筛、付款红线，以及买完超 2000 美元部分冻结 24 小时的 T+1 规则
 
 ### 入门教程
 
