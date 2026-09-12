@@ -27,10 +27,12 @@ Swaplyn（swaplyn.com）是一份中文加密货币新手教程。内容聚焦�
 - [币安怎么查自己有没有邀请人？推荐关系在哪里看（2026）](https://swaplyn.com/posts/binance-check-referrer/)：App 和网页端查推荐关系的位置、查不到说明什么、没邀请人怎么办
 - [币安没填邀请码怎么办？补填与重新绑定（2026）](https://swaplyn.com/posts/binance-referral-code-backfill/)：30 天内补绑、老用户换绑（Rebind）的条件与门槛
 - [币安怎么买 USDT？C2C 买币教程与避坑（2026）](https://swaplyn.com/posts/binance-buy-usdt/)：人民币买 U 最常见是走 C2C；快捷区/自选区怎么选、广告方怎么筛、付款红线，以及买完超 2000 美元部分冻结 24 小时的 T+1 规则
+- [币安 KYC 怎么认证？证件、步骤与失败原因（2026）](https://swaplyn.com/posts/binance-kyc-guide/)：KYC 需要的证件、认证等级、五步流程，以及失败原因排查（姓名不一致、照片不合格等）
 
 ### 入门教程
 
 - [币圈新人入门：从零开始的加密货币之旅](https://swaplyn.com/posts/crypto-beginner-guide/)：比特币是什么、怎么安全开始投资
+- [加密货币钱包安全：助记词保管、授权撤销与防盗（2026）](https://swaplyn.com/posts/crypto-wallet-security/)：助记词离线保管、DEX 授权撤销、防盗清单与钱包被盗该做什么
 
 ### 加密货币兑换指南
 
@@ -51,6 +53,7 @@ Swaplyn（swaplyn.com）是一份中文加密货币新手教程。内容聚焦�
 ### 网络与手续费
 
 - [USDT 转账选哪个网络？ERC20、TRC20、BEP20 区别与手续费对比（2026）](https://swaplyn.com/posts/usdt-network-comparison/)：三大网络手续费、到账速度、安全性与选错丢币避坑
+- [USDT 转账不到账怎么办？提币不到账排查（2026）](https://swaplyn.com/posts/usdt-transfer-not-arrive/)：三步排查法（地址网络、TXID 链上状态、确认数）与转错网络怎么办
 
 ## 元信息
 
