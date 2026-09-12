@@ -1,0 +1,152 @@
+/* ========== 首页 8 块布局 ========== */
+
+.home-block {
+    margin: 0 auto 40px;
+}
+
+.home-block-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 18px;
+}
+
+.home-block-title a {
+    box-shadow: none;
+    text-decoration: none;
+}
+
+/* 意图卡 / 信任卡网格 */
+.home-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+}
+
+.home-card {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 20px;
+    border: 1px solid #30363d;
+    border-radius: 12px;
+    box-shadow: none;
+    text-decoration: none;
+    transition: border-color .2s, transform .2s;
+}
+
+.home-card:hover {
+    border-color: #4ea8ff;
+    transform: translateY(-2px);
+}
+
+.home-card-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: inherit;
+}
+
+.home-card-desc {
+    font-size: .9rem;
+    line-height: 1.6;
+    opacity: .72;
+}
+
+/* 链接列表 */
+.home-linklist {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.home-linklist li {
+    margin: 0 0 10px;
+}
+
+.home-linklist li a,
+.home-more a,
+.home-block-title a {
+    box-shadow: none;
+    text-decoration: none;
+    color: #2563eb;
+}
+
+.home-linklist li a:hover,
+.home-more a:hover,
+.home-block-title a:hover {
+    color: #1d4ed7;
+}
+
+/* 最新文章：标题 + 日期两端对齐 */
+.home-latest li {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+}
+
+.home-latest time {
+    flex-shrink: 0;
+    font-size: .82rem;
+    opacity: .55;
+}
+
+.home-more {
+    margin-top: 16px;
+}
+
+.home-more a {
+    font-weight: 600;
+}
+
+/* 信任区条目 */
+.home-trust-item {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding: 16px;
+    border: 1px solid #30363d;
+    border-radius: 12px;
+}
+
+.home-trust-item strong {
+    font-size: .98rem;
+}
+
+.home-trust-item span {
+    font-size: .86rem;
+    line-height: 1.6;
+    opacity: .72;
+}
+
+/* ========== 响应式 ========== */
+
+@media (max-width: 768px) {
+    .home-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .home-block {
+        margin-bottom: 28px;
+    }
+}
+
+/* ========== 浅色模式适配 ========== */
+
+[data-theme="light"] .home-card,
+[data-theme="light"] .home-trust-item {
+    border-color: #d0d7de;
+}
+
+/* ========== 深色模式适配（稍亮的蓝） ========== */
+
+[data-theme="dark"] .home-linklist li a,
+[data-theme="dark"] .home-more a,
+[data-theme="dark"] .home-block-title a {
+    color: #60a5fa;
+}
+
+[data-theme="dark"] .home-linklist li a:hover,
+[data-theme="dark"] .home-more a:hover,
+[data-theme="dark"] .home-block-title a:hover {
+    color: #93bbfd;
+}

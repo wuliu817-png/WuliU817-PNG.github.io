@@ -1,0 +1,108 @@
+{{- define "main" }}
+
+{{- /* ① Hero：复用 home_info partial（项目已覆盖，带渐变封面） */}}
+{{- partial "home_info.html" . }}
+
+{{- /* ② 你现在想做什么（意图导航） */}}
+<section class="home-block">
+  <h2 class="home-block-title">你现在想做什么？</h2>
+  <div class="home-grid">
+    <a class="home-card" href="/binance/">
+      <span class="home-card-title">想开户、买币</span>
+      <span class="home-card-desc">币安注册 · KYC · 买 USDT · 省手续费 · 返佣</span>
+    </a>
+    <a class="home-card" href="/usdt/">
+      <span class="home-card-title">想转 / 用 USDT</span>
+      <span class="home-card-desc">怎么买 U · 选哪个网络 · 转账 · 换 BTC/ETH</span>
+    </a>
+    <a class="home-card" href="/swap/">
+      <span class="home-card-title">想换币、玩钱包</span>
+      <span class="home-card-desc">Swap 是什么 · 钱包换币 · MetaMask · Gas</span>
+    </a>
+  </div>
+</section>
+
+{{- /* ③ 币安专区 */}}
+<section class="home-block">
+  <h2 class="home-block-title"><a href="/binance/">币安专区</a></h2>
+  <ul class="home-linklist">
+    <li><a href="/posts/binance-register-guide/">币安注册教程：开户、KYC、邀请码</a></li>
+    <li><a href="/posts/binance-buy-usdt/">币安怎么买 USDT（C2C）</a></li>
+    <li><a href="/posts/binance-fees/">币安手续费是多少</a></li>
+    <li><a href="/posts/binance-referral-code/">币安邀请码与返佣怎么算</a></li>
+    <li><a href="/posts/binance-vs-okx/">币安 vs OKX 深度对比</a></li>
+  </ul>
+</section>
+
+{{- /* ④ USDT 专区 */}}
+<section class="home-block">
+  <h2 class="home-block-title"><a href="/usdt/">USDT 专区</a></h2>
+  <ul class="home-linklist">
+    <li><a href="/posts/binance-buy-usdt/">怎么买 USDT（C2C）</a></li>
+    <li><a href="/posts/usdt-network-comparison/">USDT 转账选哪个网络</a></li>
+    <li><a href="/posts/usdt-to-btc-guide/">USDT 怎么换 BTC</a></li>
+    <li><a href="/posts/usdt-to-eth-guide/">USDT 怎么换 ETH</a></li>
+    <li><a href="/posts/eth-to-usdt-guide/">ETH 怎么换回 USDT</a></li>
+  </ul>
+</section>
+
+{{- /* ⑤ Swap / 钱包 */}}
+<section class="home-block">
+  <h2 class="home-block-title"><a href="/swap/">Swap / 钱包</a></h2>
+  <ul class="home-linklist">
+    <li><a href="/posts/what-is-crypto-swap/">Swap 是什么意思</a></li>
+    <li><a href="/posts/how-to-swap-crypto/">钱包换币完整流程</a></li>
+    <li><a href="/posts/metamask-swap-guide/">MetaMask 怎么兑换币</a></li>
+  </ul>
+</section>
+
+{{- /* ⑥ 遇到问题了（常见问题排查） */}}
+<section class="home-block">
+  <h2 class="home-block-title">遇到问题了？</h2>
+  <ul class="home-linklist">
+    <li><a href="/posts/binance-referral-payout-time/">币安返佣不到账怎么办</a></li>
+    <li><a href="/posts/binance-referral-code-backfill/">币安没填邀请码 / 换绑</a></li>
+    <li><a href="/posts/binance-check-referrer/">怎么查自己有没有邀请人</a></li>
+    <li><a href="/posts/usdt-network-comparison/">USDT 转错网络丢币</a></li>
+  </ul>
+</section>
+
+{{- /* ⑦ 最新文章（动态取最近 6 篇） */}}
+{{- $main := where site.RegularPages "Type" "in" (default (slice "posts") site.Params.mainSections) }}
+{{- $latest := first 6 $main.ByDate.Reverse }}
+{{- if $latest }}
+<section class="home-block">
+  <h2 class="home-block-title">最新文章</h2>
+  <ul class="home-linklist home-latest">
+    {{- range $latest }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ time.Format "2006-01-02" .Date }}</time>
+    </li>
+    {{- end }}
+  </ul>
+  <p class="home-more"><a href="/posts/">查看全部教程 →</a></p>
+</section>
+{{- end }}
+
+{{- /* ⑧ 信任区 */}}
+<section class="home-block home-trust">
+  <h2 class="home-block-title">为什么能信 Swaplyn</h2>
+  <div class="home-grid">
+    <div class="home-trust-item">
+      <strong>官方资料优先</strong>
+      <span>重要规则对照官网核实，并标注核验日期</span>
+    </div>
+    <div class="home-trust-item">
+      <strong>实测明确标注</strong>
+      <span>涉及实测的内容会写明，不把「听说」当「实测」</span>
+    </div>
+    <div class="home-trust-item">
+      <strong>利益关系公开</strong>
+      <span>推广返佣关系在关于页如实说明</span>
+    </div>
+  </div>
+  <p class="home-more"><a href="/about/">关于我们与编辑标准 →</a></p>
+</section>
+
+{{- end }}
