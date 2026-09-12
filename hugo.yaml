@@ -1,6 +1,6 @@
 baseURL: https://swaplyn.com/
 locale: zh-CN
-title: CoinTrail 加密指南
+title: Swaplyn
 theme: PaperMod
 
 # 每页文章数
@@ -22,16 +22,14 @@ frontmatter:
 # 开启阅读时间
 params:
   env: production
-  description: "CoinTrail 加密指南是面向中文用户的加密货币新手教程站，专注把每一步操作讲清楚：币安、OKX 注册开户与 KYC，现货合约手续费与返佣怎么算，USDT 转账选哪个网络更省钱，钱包怎么兑换币，以及新手最容易踩的坑。所有费率和规则均核实至 2026 年 9 月，看完就能上手。"
+  description: "Swaplyn 是面向中文用户的加密货币新手教程站，专注把每一步操作讲清楚：币安、OKX 注册开户与 KYC，现货合约手续费与返佣，USDT 转账选网络，钱包 Swap 兑换，以及新手最容易踩的坑。重要规则注明核验时间，涉及实测的内容明确标注。"
   # 首页 <title> 用更长的描述性标题（Bing 提示标题过短），其余页面仍用「页面标题 | 站点名」
-  homeTitle: "CoinTrail 加密指南｜加密货币新手入门教程：交易所注册、手续费返佣、USDT 转账、钱包兑换"
-  author: CoinTrail
+  homeTitle: "Swaplyn｜币安、USDT、钱包与 Swap 新手操作教程"
+  author: Swaplyn
 
-  # 站点 Logo
+  # 站点 Logo（纯文字，等新 logo 图做好后再补 icon）
   label:
-    text: "CoinTrail 加密指南"
-    icon: /images/cointrail-logo.png
-    iconHeight: 36
+    text: "Swaplyn"
 
   # 站点图标
   assets:
@@ -42,8 +40,8 @@ params:
 
   # 首页显示
   homeInfoParams:
-    Title: "CoinTrail 加密指南"
-    Content: "加密货币新手入门指南，从交易所注册、钱包安全到链上资产探索。"
+    Title: "加密货币新手操作指南"
+    Content: "从币安注册、买 USDT，到转账、钱包与 Swap，把每一个容易出错的步骤讲清楚。"
 
   # 社交链接（可以先空着，后面再加）
   socialIcons: []
@@ -64,21 +62,29 @@ params:
   # 日期格式
   dateFormat: "2006-01-02"
 
-# 导航菜单
+# 导航菜单：意图入口（币安/USDT/兑换）+ 全部教程 + 关于；首页由 Logo 承担
 menu:
   main:
-    - identifier: posts
-      name: 文章
-      url: /posts/
+    - identifier: binance
+      name: 币安
+      url: /binance/
       weight: 1
-    - identifier: tags
-      name: 标签
-      url: /tags/
+    - identifier: usdt
+      name: USDT
+      url: /usdt/
       weight: 2
+    - identifier: swap
+      name: 兑换
+      url: /swap/
+      weight: 3
+    - identifier: posts
+      name: 全部教程
+      url: /posts/
+      weight: 4
     - identifier: about
       name: 关于
       url: /about/
-      weight: 3
+      weight: 5
 
 # 开启标签分类
 taxonomies:
