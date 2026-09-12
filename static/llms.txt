@@ -32,7 +32,7 @@ Swaplyn（swaplyn.com）是一份中文加密货币新手教程。内容聚焦�
 ### 入门教程
 
 - [币圈新人入门：从零开始的加密货币之旅](https://swaplyn.com/posts/crypto-beginner-guide/)：比特币是什么、怎么安全开始投资
-- [加密货币钱包安全：助记词保管、授权撤销与防盗（2026）](https://swaplyn.com/posts/crypto-wallet-security/)：助记词离线保管、DEX 授权撤销、防盗清单与钱包被盗该做什么
+- [加密货币钱包安全：助记词保管、授权撤销与防盗（2026）](https://swaplyn.com/posts/crypto-wallet-security/)：四个概念分清、助记词离线保管、签名与授权撤销、转账前核对、被盗分情况处理
 
 ### 加密货币兑换指南
 
@@ -53,7 +53,7 @@ Swaplyn（swaplyn.com）是一份中文加密货币新手教程。内容聚焦�
 ### 网络与手续费
 
 - [USDT 转账选哪个网络？ERC20、TRC20、BEP20 区别与手续费对比（2026）](https://swaplyn.com/posts/usdt-network-comparison/)：三大网络手续费、到账速度、安全性与选错丢币避坑
-- [USDT 转账不到账怎么办？提币不到账排查（2026）](https://swaplyn.com/posts/usdt-transfer-not-arrive/)：三步排查法（地址网络、TXID 链上状态、确认数）与转错网络怎么办
+- [USDT 转账不到账怎么办？提币不到账排查（2026）](https://swaplyn.com/posts/usdt-transfer-not-arrive/)：四步排查（发送平台、地址网络、TXID 链上状态、接收方入账）与转错网络的找回可能
 
 ## 元信息
 
