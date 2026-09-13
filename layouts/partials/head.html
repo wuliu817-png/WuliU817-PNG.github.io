@@ -1,8 +1,14 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-{{- if and (hugo.IsProduction | or (eq site.Params.env "production")) (ne .Params.robotsNoIndex true) (ne .Kind "404") }}
+{{- /* robots meta：只在此处输出一次。taxonomy/term（标签/分类列表页）、404、以及显式 robotsNoIndex 的页面 noindex；
+      taxonomy/term 保留 follow，让列表页里的文章链接仍可被抓取。 */ -}}
+{{- $production := hugo.IsProduction | or (eq site.Params.env "production") -}}
+{{- $noindex := or (eq .Kind "taxonomy") (eq .Kind "term") (eq .Params.robotsNoIndex true) (eq .Kind "404") -}}
+{{- if and $production (not $noindex) }}
 <meta name="robots" content="index, follow">
+{{- else if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+<meta name="robots" content="noindex, follow">
 {{- else }}
 <meta name="robots" content="noindex, nofollow">
 {{- end }}
