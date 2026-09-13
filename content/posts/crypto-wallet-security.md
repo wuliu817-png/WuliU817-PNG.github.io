@@ -186,7 +186,7 @@ Approve 是授权合约动用你的某类代币。撤销授权只能取消合约
 
 **参考资料**：
 
-- [MetaMask 支持中心：如何保管助记词](https://support.metamask.io/zh-CN/privacy-and-security/how-to-store-your-seed-phrase/) — 助记词保管官方建议
+- [MetaMask 支持中心：如何保管助记词](https://support.metamask.io/zh-cn/start/user-guide-secret-recovery-phrase-password-and-private-keys/) — 助记词保管官方建议
 - [Revoke.cash](https://revoke.cash/zh) — 授权查询与撤销工具
 - [慢雾 SlowMist](https://www.slowmist.com/zh/) — 中文区块链安全团队，安全事件披露
 

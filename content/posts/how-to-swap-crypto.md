@@ -297,6 +297,6 @@ OKX Web3 钱包也有内置兑换，费率以页面显示为准，本文不替�
 **参考来源（数据核对依据）：**
 
 - [Uniswap 官方文档](https://docs.uniswap.org/) — DEX 兑换协议原理与费率
-- [MetaMask 官方支持](https://support.metamask.io/zh-CN/) — 钱包内置 Swap 与费用说明
+- [MetaMask 官方支持](https://support.metamask.io/zh-cn) — 钱包内置 Swap 与费用说明
 - [Etherscan Gas Tracker](https://etherscan.io/gastracker) — 实时 Gas 价格
 - [Revoke.cash](https://revoke.cash/zh) — 代币授权管理与撤销

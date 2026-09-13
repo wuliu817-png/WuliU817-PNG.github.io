@@ -304,7 +304,7 @@ MetaMask 现在是真多链钱包了：Solana（2025 年 7 月）、Bitcoin（20
 
 **参考来源（数据核对依据）：**
 
-- [MetaMask 官方支持中心](https://support.metamask.io/zh-CN/) — 兑换费率、免 Gas 兑换前提条件、支持网络
+- [MetaMask 官方支持中心](https://support.metamask.io/zh-cn) — 兑换费率、免 Gas 兑换前提条件、支持网络
 - [MetaMask Smart Transactions 说明](https://support.metamask.io/manage-crypto/transactions/smart-transactions) — MEV 防护机制与限制
 - [Uniswap 官方前端](https://app.uniswap.org/) — 界面费现状
 - [Etherscan Gas Tracker](https://etherscan.io/gastracker) — 实时 Gas 价格

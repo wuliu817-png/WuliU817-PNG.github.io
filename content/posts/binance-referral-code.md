@@ -133,6 +133,7 @@ faq:
 **下一步推荐：**
 
 - [币安注册教程](/posts/binance-register-guide/) — 邀请码在哪填、完整注册流程
+- [币安邀请码和推荐链接有什么区别](/posts/binance-invite-code-vs-referral-link/) — 自动带参 vs 手填邀请码，注册用哪个更方便
 - [币安 vs OKX 深度对比](/posts/binance-vs-okx/) — 还没定选哪家，先看这篇
 - [USDT 转账选哪个网络](/posts/usdt-network-comparison/) — 注册完买 U，选对网络省手续费
 
