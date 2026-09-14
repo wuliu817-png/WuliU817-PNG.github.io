@@ -203,6 +203,7 @@ C2C 页面经常标着「0 手续费」，但你的实际购币成本不只看�
 - [USDT 转账选哪个网络](/posts/usdt-network-comparison/) — 买完 U 要转账/提现，先搞懂 ERC20、TRC20、BEP20 怎么选
 - [币安手续费是多少](/posts/binance-fees/) — C2C 价差之外的现货、合约、提币费率完整拆解
 - [币安注册教程](/posts/binance-register-guide/) — 还没开户？从注册到 KYC、充值买 U 全流程
+- [币安和OKX哪个好](/posts/binance-vs-okx/) — 还没定用哪家交易所？先看两家对比
 
 **参考资料**：
 

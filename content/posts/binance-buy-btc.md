@@ -209,6 +209,7 @@ USDT 到现货账户后，开始买：
 - [币安怎么买 USDT](/posts/binance-buy-usdt/) — 还没买 U？先看这篇把 USDT 买进来
 - [币安手续费是多少](/posts/binance-fees/) — 现货 0.1%、BNB 抵扣、返佣叠加的完整拆解
 - [USDT 转账选哪个网络](/posts/usdt-network-comparison/) — 提币前先搞懂网络怎么选、选错会怎样
+- [币安和OKX哪个好](/posts/binance-vs-okx/) — 还没开户？先看两家对比再决定用哪家
 
 **参考资料**：
 

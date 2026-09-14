@@ -230,6 +230,7 @@ USDT 到现货账户后，开始买：
 - [币安怎么买比特币](/posts/binance-buy-btc/) — 买币簇里的另一篇，买 BTC 和买 ETH 流程几乎一样，对照着看更清楚
 - [币安怎么买 USDT](/posts/binance-buy-usdt/) — 还没买 U？先看这篇把 USDT 买进来
 - [USDT 转账选哪个网络](/posts/usdt-network-comparison/) — 提币前先搞懂网络怎么选、选错会怎样，ETH 尤其要上心
+- [币安和OKX哪个好](/posts/binance-vs-okx/) — 还没开户？先看两家对比再决定用哪家
 
 **参考资料**：
 
