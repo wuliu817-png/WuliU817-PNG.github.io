@@ -29,6 +29,7 @@ Swaplyn（swaplyn.com）是一份中文加密货币新手教程。内容聚焦�
 - [币安怎么买 USDT？C2C 买币教程与避坑（2026）](https://swaplyn.com/posts/binance-buy-usdt/)：人民币买 U 最常见是走 C2C；快捷区/自选区怎么选、广告方怎么筛、付款红线，以及买完超 2000 美元部分冻结 24 小时的 T+1 规则
 - [币安 KYC 怎么认证？证件、步骤与失败原因（2026）](https://swaplyn.com/posts/binance-kyc-guide/)：KYC 需要的证件、认证等级、五步流程，以及失败原因排查（姓名不一致、照片不合格等）
 - [币安怎么买比特币？USDT 买 BTC 现货教程（2026）](https://swaplyn.com/posts/binance-buy-btc/)：先 C2C 买 USDT、再划转到现货账户用 USDT 买 BTC；市价单/限价单怎么选与滑点、0.1% 手续费与 BNB 抵扣、买完放交易所还是提钱包
+- [币安怎么买以太坊？USDT 买 ETH 现货教程（2026）](https://swaplyn.com/posts/binance-buy-eth/)：先 C2C 买 USDT、再划转到现货账户用 USDT 买 ETH；市价单/限价单怎么选与滑点、0.1% 手续费与 BNB 抵扣，以及 ETH 提币多网络选错的坑
 
 ### 入门教程
 
