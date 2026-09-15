@@ -246,7 +246,7 @@ MetaMask 现在是真多链钱包了：Solana（2025 年 7 月）、Bitcoin（20
 
 ### 5. 授权了无限额度就再也没管过
 
-第一次用某个代币兑换需要 approve，默认常常是无限额度。换完之后建议定期去 [Revoke.cash](https://revoke.cash/zh) 检查并撤销不用的授权。这条和用哪个入口无关，两边都要做。
+第一次用某个代币兑换需要 approve，默认常常是无限额度。换完之后建议定期去 [Revoke.cash](https://revoke.cash/zh) 检查并撤销不用的授权。这条和用哪个入口无关，两边都要做。怎么查、哪些该撤、具体怎么撤，见[钱包授权（Approve）怎么查、怎么撤销](/posts/wallet-approval-revoke/)。
 
 ---
 

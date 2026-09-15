@@ -78,14 +78,18 @@ menu:
       name: 兑换
       url: /swap/
       weight: 3
+    - identifier: security
+      name: 安全
+      url: /security/
+      weight: 4
     - identifier: posts
       name: 全部教程
       url: /posts/
-      weight: 4
+      weight: 5
     - identifier: about
       name: 关于
       url: /about/
-      weight: 5
+      weight: 6
 
 # 开启标签分类
 taxonomies:
