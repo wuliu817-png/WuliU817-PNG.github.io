@@ -221,6 +221,12 @@ faq:
 - [USDT 怎么买 BTC](/posts/usdt-to-btc-guide/) — 账户开好，第一笔交易怎么下
 - [币圈新人入门：从零开始的加密货币之旅](/posts/crypto-beginner-guide/) — 刚接触币圈，先补基础概念
 
+**参考资料**：
+
+- [币安官方支持中心（中文）](https://www.binance.com/zh-CN/support) — 注册、KYC、账户安全的官方帮助
+- [Binance Academy 中文](https://academy.binance.com/zh) — 交易所、钱包、安全的基础教程
+- [CoinMarketCap](https://coinmarketcap.com/zh/) — 查币安的真实市场排名与交易量
+
 **免责声明**：本文不构成投资建议。加密货币价格波动大、风险高，请只用闲钱参与，量力而行。18 岁以下请勿参与加密货币交易。
 
 *本文最后更新：2026-09-02*

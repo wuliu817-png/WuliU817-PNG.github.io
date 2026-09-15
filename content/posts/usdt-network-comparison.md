@@ -246,3 +246,5 @@ USDT 转账选网络，记住三个原则：
 - [Tether 官方支持协议列表](https://tether.to/en/supported-protocols/) — USDT 支持的区块链
 - [Etherscan Gas Tracker](https://etherscan.io/gastracker) — 以太坊实时 Gas 价格
 - [TronScan](https://tronscan.org/) — 波场实时资源价格
+
+**免责声明**：本文不构成投资建议。加密货币价格波动大、风险高，链上操作不可逆，请仔细核对地址与网络，只用闲钱参与，量力而行。18 岁以下请勿参与加密货币交易。

@@ -138,6 +138,11 @@ App 的注册界面比网页更精简，邀请码栏通常直接跟在密码下�
 - [币安注册教程](/posts/binance-register-guide/) — 从注册到 KYC 的完整流程
 - [币安 vs OKX 深度对比](/posts/binance-vs-okx/) — 还没定选哪家，先看这篇
 
+**参考资料**：
+
+- [币安官方支持中心（中文）](https://www.binance.com/zh-CN/support) — 邀请码、推荐关系的官方说明
+- [Binance Academy 中文](https://academy.binance.com/zh) — 返佣与手续费的基础概念
+
 **免责声明**：本文不构成投资建议。加密货币价格波动大、风险高，请只用闲钱参与，量力而行。18 岁以下请勿参与加密货币交易。
 
 *本文最后更新：2026-09-02*
