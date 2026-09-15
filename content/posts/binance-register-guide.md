@@ -215,7 +215,7 @@ faq:
 
 **下一步推荐：**
 
-- [币安邀请码：推荐码怎么填、返佣怎么算](/posts/binance-referral-code/) — 注册时邀请码填对，返佣才生效
+- [币安邀请码 2026 最新：BN1200 注册教程 + 20% 返佣](/posts/binance-referral-code/) — 注册时邀请码填对，返佣才生效
 - [币安 KYC 怎么认证](/posts/binance-kyc-guide/) — 证件、步骤、审核不过怎么排查
 - [币安和OKX哪个好](/posts/binance-vs-okx/) — 还没定选哪家，先看这篇
 - [USDT 怎么买 BTC](/posts/usdt-to-btc-guide/) — 账户开好，第一笔交易怎么下

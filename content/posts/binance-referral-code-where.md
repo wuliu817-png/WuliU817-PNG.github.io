@@ -134,7 +134,7 @@ App 的注册界面比网页更精简，邀请码栏通常直接跟在密码下�
 
 **下一步推荐：**
 
-- [币安邀请码：推荐码怎么填、返佣怎么算](/posts/binance-referral-code/) — 填完之后，返佣到底怎么算
+- [币安邀请码 2026 最新：BN1200 注册教程 + 20% 返佣](/posts/binance-referral-code/) — 填完之后，返佣到底怎么算
 - [币安注册教程](/posts/binance-register-guide/) — 从注册到 KYC 的完整流程
 - [币安 vs OKX 深度对比](/posts/binance-vs-okx/) — 还没定选哪家，先看这篇
 

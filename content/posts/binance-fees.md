@@ -168,7 +168,7 @@ U 本位永续默认 maker 0.02% / taker 0.05%，按仓位名义价值（价格 
 **下一步推荐：**
 
 - [币安邀请码 20% 返佣是什么意思](/posts/binance-referral-rebate/) — 返佣叠加算法的完整拆解
-- [币安邀请码：推荐码怎么填、返佣怎么算](/posts/binance-referral-code/) — 返佣从哪来、在哪填
+- [币安邀请码 2026 最新：BN1200 注册教程 + 20% 返佣](/posts/binance-referral-code/) — 返佣从哪来、在哪填
 - [USDT 转账选哪个网络](/posts/usdt-network-comparison/) — 提币/转账前先搞懂网络
 - [币安 vs OKX 深度对比](/posts/binance-vs-okx/) — 两家手续费、返佣谁更划算
 

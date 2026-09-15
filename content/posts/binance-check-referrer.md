@@ -139,7 +139,7 @@ faq:
 **下一步推荐：**
 
 - [币安没填邀请码怎么办？补填与重新绑定](/posts/binance-referral-code-backfill/) — 查完发现没绑，下一步怎么补
-- [币安邀请码：推荐码怎么填、返佣怎么算](/posts/binance-referral-code/) — 绑上之后，20% 返佣能省多少
+- [币安邀请码 2026 最新：BN1200 注册教程 + 20% 返佣](/posts/binance-referral-code/) — 绑上之后，20% 返佣能省多少
 - [币安注册教程](/posts/binance-register-guide/) — 从头到尾的完整注册流程
 
 **参考资料**：[币安官方支持中心](https://www.binance.com/zh-CN/support)
