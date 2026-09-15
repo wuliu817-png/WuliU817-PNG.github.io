@@ -205,6 +205,7 @@ USDT 到现货账户后，开始买：
 
 **下一步推荐：**
 
+- [币安现货交易怎么操作](/posts/binance-spot-trading/) — 现货总纲：买卖双向、订单类型全景、挂单吃单
 - [USDT 怎么兑换 BTC](/posts/usdt-to-btc-guide/) — 交易所买的是原生 BTC，钱包 Swap 换到的是 WBTC，别搞混
 - [币安怎么买 USDT](/posts/binance-buy-usdt/) — 还没买 U？先看这篇把 USDT 买进来
 - [币安手续费是多少](/posts/binance-fees/) — 现货 0.1%、BNB 抵扣、返佣叠加的完整拆解

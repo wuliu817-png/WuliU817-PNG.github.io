@@ -10,16 +10,24 @@ description: "币安注册、邀请码、手续费、买 USDT 的完整教程：
 1. 先注册 —— [币安注册教程](/posts/binance-register-guide/)：开户、KYC、充值买 U、安全设置
 2. 买第一笔 USDT —— [币安怎么买 USDT](/posts/binance-buy-usdt/)：C2C 买币、快捷区/自选区、付款红线与 T+1 提现限制
 3. 搞懂手续费 —— [币安手续费是多少](/posts/binance-fees/)：现货、合约、提币费率与省钱算法
+4. 学现货买卖 —— [币安现货交易怎么操作](/posts/binance-spot-trading/)：现货是什么、买入卖出、四类订单
 
-## 邀请码与返佣
+## 现货交易与买币
 
-- [币安邀请码：推荐码怎么填、返佣怎么算](/posts/binance-referral-code/)
-- [币安邀请码和推荐链接有什么区别](/posts/binance-invite-code-vs-referral-link/)
-- [币安邀请码在哪里填写](/posts/binance-referral-code-where/)
-- [币安没填邀请码怎么办](/posts/binance-referral-code-backfill/)
-- [币安怎么查自己有没有邀请人](/posts/binance-check-referrer/)
-- [币安邀请码 20% 返佣是什么意思](/posts/binance-referral-rebate/)
-- [币安返佣多久到账](/posts/binance-referral-payout-time/)
+- [币安现货交易怎么操作](/posts/binance-spot-trading/) —— 现货总纲：买卖双向、交易对、四类订单、挂单吃单
+- [币安怎么买比特币](/posts/binance-buy-btc/) —— 用 USDT 买 BTC 的完整流程
+- [币安怎么买以太坊](/posts/binance-buy-eth/) —— 用 USDT 买 ETH 的完整流程
+
+## 币安邀请码与返佣专题
+
+先看总纲 [币安邀请码 2026 最新：BN1200 注册教程 + 20% 返佣](/posts/binance-referral-code/)，下面每篇各解决一个问题：
+
+- [邀请码和推荐链接有什么区别](/posts/binance-invite-code-vs-referral-link/) —— 自动带参 vs 手填，注册用哪个更省事
+- [邀请码在哪里填](/posts/binance-referral-code-where/) —— 网页 / App 的填写位置
+- [20% 返佣是什么意思](/posts/binance-referral-rebate/) —— 返佣怎么算、能不能叠加 BNB
+- [返佣多久到账](/posts/binance-referral-payout-time/) —— 到账时间 + 不到账排查
+- [怎么查自己有没有邀请人](/posts/binance-check-referrer/) —— 确认绑定关系
+- [没填邀请码 / 换绑怎么办](/posts/binance-referral-code-backfill/) —— 补填 + Rebind
 
 ## 更多币安内容
 

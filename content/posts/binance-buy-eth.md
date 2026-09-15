@@ -226,6 +226,7 @@ USDT 到现货账户后，开始买：
 
 **下一步推荐：**
 
+- [币安现货交易怎么操作](/posts/binance-spot-trading/) — 现货总纲：买卖双向、订单类型全景、挂单吃单
 - [USDT 怎么兑换 ETH](/posts/usdt-to-eth-guide/) — 交易所现货是买 ETH 的一条路，钱包 Swap 换 ETH 又是另一条，别搞混
 - [币安怎么买比特币](/posts/binance-buy-btc/) — 买币簇里的另一篇，买 BTC 和买 ETH 流程几乎一样，对照着看更清楚
 - [币安怎么买 USDT](/posts/binance-buy-usdt/) — 还没买 U？先看这篇把 USDT 买进来
