@@ -235,7 +235,7 @@ USDT 转账选网络，记住三个原则：
 
 **相关阅读：**
 
-- [什么是加密货币兑换？新手币币兑换完整指南](/posts/crypto-swap-beginner-guide/) — 兑换基础概念一次讲清
+- [Swap 是什么意思？链上兑换和交易所交易有什么区别](/posts/what-is-crypto-swap/) — 兑换基础概念一次讲清
 - [USDT 怎么兑换 ETH？完整教程与手续费说明](/posts/usdt-to-eth-guide/) — 换币操作流程
 - [USDT 怎么兑换 BTC？三种方式与 WBTC 陷阱](/posts/usdt-to-btc-guide/) — USDT 换 BTC 的三种方式与避坑
 - [币安注册教程 2026](/posts/binance-register-guide/) — 币安开户 + 提币流程

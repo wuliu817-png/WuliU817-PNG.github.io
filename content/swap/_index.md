@@ -7,7 +7,6 @@ description: "币币兑换与钱包 Swap 完整教程：什么是 Swap、钱包�
 
 ## 先搞懂概念
 
-- [什么是加密货币兑换](/posts/crypto-swap-beginner-guide/)：钱包 Swap 与交易所兑换的区别
 - [Swap 是什么意思](/posts/what-is-crypto-swap/)：链上兑换与交易所成交的本质差异
 - [加密货币怎么兑换](/posts/how-to-swap-crypto/)：钱包换币全流程，含 Gas、滑点、价格影响
 

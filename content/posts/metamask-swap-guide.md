@@ -298,7 +298,6 @@ MetaMask 现在是真多链钱包了：Solana（2025 年 7 月）、Bitcoin（20
 
 - [加密货币怎么兑换？钱包换币完整教程](/posts/how-to-swap-crypto/) — 连钱包到确认的完整六步流程
 - [Swap 是什么意思？链上兑换和交易所交易有什么区别](/posts/what-is-crypto-swap/) — 搞懂链上兑换的底层机制
-- [什么是加密货币兑换？新手币币兑换完整指南](/posts/crypto-swap-beginner-guide/) — 零基础入门
 - [USDT 转账选哪个网络？ERC20、TRC20、BEP20 区别](/posts/usdt-network-comparison/) — 换币前先确认链
 - [USDT 怎么兑换 ETH？完整教程与手续费说明](/posts/usdt-to-eth-guide/) — 最高频兑换对的具体操作
 - [ETH 怎么换 USDT？钱包兑换教程](/posts/eth-to-usdt-guide/) — 变现场景的完整决策

@@ -5,6 +5,8 @@ tags: ["兑换教程", "钱包", "Swap", "换币", "MetaMask"]
 categories: ["加密货币兑换指南"]
 description: "加密货币怎么兑换？钱包里直接换币的完整教程：先确认币在哪条链、留好Gas，再一步步走完钱包换币流程，看懂确认页的价格影响和滑点，算清手续费，知道什么时候该用钱包、什么时候该去交易所。"
 slug: "how-to-swap-crypto"
+aliases:
+  - /posts/crypto-swap-beginner-guide/
 faq:
   - q: '钱包换币需要注册或 KYC 吗？'
     a: '不需要。纯链上兑换用钱包地址即可操作，不需要实名。但如果你是通过交易所买币再提到钱包，那一步（买币）需要 KYC。'
@@ -288,7 +290,7 @@ OKX Web3 钱包也有内置兑换，费率以页面显示为准，本文不替�
 
 **相关阅读：**
 
-- [什么是加密货币兑换？新手币币兑换完整指南](/posts/crypto-swap-beginner-guide/) — 钱包换和交易所换的概念与区别
+- [Swap 是什么意思？链上兑换和交易所交易有什么区别](/posts/what-is-crypto-swap/) — 兑换和交易的底层概念与区别
 - [USDT 怎么兑换 ETH？完整教程与手续费说明](/posts/usdt-to-eth-guide/) — USDT 换 ETH 的具体操作
 - [ETH 怎么换 USDT？钱包兑换教程](/posts/eth-to-usdt-guide/) — 反向兑换 + 变现场景
 - [USDT 转账选哪个网络？ERC20、TRC20、BEP20 区别](/posts/usdt-network-comparison/) — 搞清楚链和链的区别

@@ -239,7 +239,7 @@ USDT 换 BTC 记住一件事就够了：**比特币在比特币主网上，链�
 - [USDT 怎么兑换 ETH？完整教程与手续费说明](/posts/usdt-to-eth-guide/) — 同系列兑换教程，换 ETH 和换 BTC 的区别一目了然
 - [ETH 怎么换 USDT？钱包 Swap 和交易所卖出两种方式对比](/posts/eth-to-usdt-guide/) — 反向兑换、变现场景
 - [USDT 转账选哪个网络？ERC20、TRC20、BEP20 区别](/posts/usdt-network-comparison/) — 充提 USDT 前先搞清网络怎么选
-- [什么是加密货币兑换？新手币币兑换完整指南](/posts/crypto-swap-beginner-guide/) — 兑换基础概念
+- [Swap 是什么意思？链上兑换和交易所交易有什么区别](/posts/what-is-crypto-swap/) — 兑换基础概念
 - [OKX 欧意注册教程 2026](/posts/okx-register-guide/) — 交易所开户指南
 - [币安注册教程 2026](/posts/binance-register-guide/) — 币安开户 + 提币流程
 
