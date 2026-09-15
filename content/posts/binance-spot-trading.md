@@ -191,6 +191,7 @@ faq:
 - [币安怎么买以太坊](/posts/binance-buy-eth/) — 买入 ETH 的完整流程
 - [币安怎么买 USDT](/posts/binance-buy-usdt/) — 买币前，先用 C2C 把 USDT 买进来
 - [币安手续费是多少](/posts/binance-fees/) — 现货、合约、提币三套费率的完整拆解
+- [币安怎么提币到钱包](/posts/binance-withdraw/) — 买完币了？提币的地址、网络、手续费一次讲清
 - [币安 vs OKX 深度对比](/posts/binance-vs-okx/) — 还没开户？先看两家对比再决定
 
 **参考资料**：
