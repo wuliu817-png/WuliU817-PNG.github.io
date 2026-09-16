@@ -12,6 +12,7 @@ description: "币安注册、邀请码、手续费、买 USDT 的完整教程：
 3. 搞懂手续费 —— [币安手续费是多少](/posts/binance-fees/)：现货、合约、提币费率与省钱算法
 4. 学现货买卖 —— [币安现货交易怎么操作](/posts/binance-spot-trading/)：现货是什么、买入卖出、四类订单
 5. 提到自己的钱包 —— [币安怎么提币到钱包](/posts/binance-withdraw/)：地址、网络、白名单、手续费一次讲清
+6. 换成人民币出金 —— [币安怎么卖 USDT](/posts/binance-sell-usdt/)：C2C 卖出、筛买家、冻卡风险
 
 ## 现货交易与买币
 
@@ -19,8 +20,9 @@ description: "币安注册、邀请码、手续费、买 USDT 的完整教程：
 - [币安怎么买比特币](/posts/binance-buy-btc/) —— 用 USDT 买 BTC 的完整流程
 - [币安怎么买以太坊](/posts/binance-buy-eth/) —— 用 USDT 买 ETH 的完整流程
 
-## 提币与转账
+## 出金与转账
 
+- [币安怎么卖 USDT 出金](/posts/binance-sell-usdt/) —— 卖 U 换人民币：C2C 出售、筛买家、冻卡风险
 - [币安怎么提币到钱包](/posts/binance-withdraw/) —— 提币总纲：账户、地址网络、白名单、T+1 冻结、手续费
 - [USDT 转账选哪个网络](/posts/usdt-network-comparison/) —— 提币前先搞懂 ERC20 / TRC20 / BEP20 怎么选
 - [USDT 转账不到账怎么排查](/posts/usdt-transfer-not-arrive/) —— 提了没到账？按四步排查
