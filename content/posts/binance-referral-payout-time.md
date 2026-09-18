@@ -123,6 +123,7 @@ faq:
 - [币安邀请码 20% 返佣是什么意思](/posts/binance-referral-rebate/) — 返佣到底怎么算、能省多少
 - [币安怎么查自己有没有邀请人](/posts/binance-check-referrer/) — 先确认返佣绑没绑上
 - [币安没填邀请码怎么办？补填与重新绑定](/posts/binance-referral-code-backfill/) — 查完发现没绑，下一步怎么补
+- [币安和OKX哪个好](/posts/binance-vs-okx/) — 还没定用哪家交易所？先看两家对比
 
 **参考资料**：[币安官方支持中心](https://www.binance.com/zh-CN/support)
 

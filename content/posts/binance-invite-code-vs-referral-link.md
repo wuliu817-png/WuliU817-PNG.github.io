@@ -159,6 +159,7 @@ faq:
 - [币安邀请码在哪里填写](/posts/binance-referral-code-where/) — 码/链接具体在注册页的哪个位置
 - [币安怎么查自己有没有邀请人](/posts/binance-check-referrer/) — 用链接注册后，核验绑没绑上
 - [币安邀请码 20% 返佣是什么意思](/posts/binance-referral-rebate/) — 20% 返佣到底返的是什么、怎么算
+- [币安和OKX哪个好](/posts/binance-vs-okx/) — 要不要两家都注册？先看对比
 
 **参考资料**：[币安官方支持中心](https://www.binance.com/zh-CN/support)
 

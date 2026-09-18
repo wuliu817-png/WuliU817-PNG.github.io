@@ -148,6 +148,7 @@ faq:
 - [币安注册教程](/posts/binance-register-guide/) — 还没开户？从注册到 KYC、充值买 U 的完整流程
 - [币安怎么买 USDT](/posts/binance-buy-usdt/) — 通过 KYC 之后，人民币买第一笔 U 的 C2C 教程
 - [币安手续费是多少](/posts/binance-fees/) — 认证通过后，先搞懂现货、合约、提币的费率怎么算
+- [币安和OKX哪个好](/posts/binance-vs-okx/) — 还没定用币安还是 OKX？先看两家对比再决定
 
 **参考资料**：
 

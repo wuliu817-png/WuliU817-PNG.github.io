@@ -169,6 +169,7 @@ faq:
 - [币安邀请码 2026 最新：BN1200 注册教程 + 20% 返佣](/posts/binance-referral-code/) — 绑上之后，20% 返佣能省多少（总纲）
 - [币安邀请码在哪里填](/posts/binance-referral-code-where/) — 补绑、换绑或重注册时，码填在哪
 - [币安怎么查自己有没有邀请人](/posts/binance-check-referrer/) — 先确认自己到底绑没绑上
+- [币安和OKX哪个好](/posts/binance-vs-okx/) — 纠结要不要也开个 OKX？先看两家怎么取舍
 
 **参考资料**：
 

@@ -164,10 +164,16 @@ slug: "binance-vs-okx"
 
 **相关阅读：**
 
-- [币安注册教程2026](/posts/binance-register-guide/) — 手把手币安开户指南
-- [OKX欧意注册教程2026](/posts/okx-register-guide/) — 手把手OKX开户指南
-- [币安买美股靠谱吗？2026 现状 + 风险提示](/posts/binance-us-stocks-2026/) — 币安还能买美股，靠谱吗
-- [币圈新人入门：从零开始的加密货币之旅](/posts/crypto-beginner-guide/) — 小白入门第一课
+- [币安注册教程](/posts/binance-register-guide/) — 手把手币安开户指南
+- [OKX欧意注册教程](/posts/okx-register-guide/) — 手把手 OKX 开户指南
+- [币安邀请码 2026 最新](/posts/binance-referral-code/) — 两家注册都别漏填邀请码（BN1200 / OK800）
+- [币安 KYC 怎么认证](/posts/binance-kyc-guide/) — 开户绕不开的实名认证
+- [币安怎么买 USDT](/posts/binance-buy-usdt/) — 注册后第一件事：人民币买 U
+- [币安怎么买比特币](/posts/binance-buy-btc/) — 买完 U，用它买 BTC
+- [币安怎么买以太坊](/posts/binance-buy-eth/) — 买完 U，用它买 ETH
+- [币安手续费是多少](/posts/binance-fees/) — 两家对比之外，费率怎么省
+- [币安怎么卖 USDT 提现](/posts/binance-sell-usdt/) — 要出金，走 C2C 卖币
+- [币圈新人入门](/posts/crypto-beginner-guide/) — 小白入门第一课
 
 **推荐学习社区：**
 

@@ -197,6 +197,7 @@ faq:
 - [币安怎么查自己有没有邀请人](/posts/binance-check-referrer/) — 先确认自己的返佣绑没绑上
 - [币安返佣多久到账](/posts/binance-referral-payout-time/) — 算清楚返佣后，什么时候能到账
 - [币安手续费是多少？现货、合约、提币费率一次讲清](/posts/binance-fees/) — 返佣之外，BNB 抵扣和完整费率
+- [币安和OKX哪个好](/posts/binance-vs-okx/) — 返佣之外，两家交易所的整体对比
 
 **参考资料**：
 
