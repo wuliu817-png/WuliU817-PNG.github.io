@@ -8,7 +8,7 @@ description: "币安注册、邀请码、手续费、买 USDT 的完整教程：
 ## 推荐学习路径
 
 1. 先注册 —— [币安注册教程](/posts/binance-register-guide/)：开户、KYC、充值买 U、安全设置
-2. 买第一笔 USDT —— [币安怎么买 USDT](/posts/binance-buy-usdt/)：C2C 买币、快捷区/自选区、付款红线与 T+1 提现限制
+2. 买第一笔 USDT —— [币安怎么买 USDT](/posts/binance-buy-usdt/)：C2C 买币、快捷区/自选区、付款红线与 T+1 提现限制（手上已有 USDT，直接看[币安怎么充值 USDT](/posts/binance-deposit-usdt/)）
 3. 搞懂手续费 —— [币安手续费是多少](/posts/binance-fees/)：现货、合约、提币费率与省钱算法
 4. 学现货买卖 —— [币安现货交易怎么操作](/posts/binance-spot-trading/)：现货是什么、买入卖出、四类订单
 5. 提到自己的钱包 —— [币安怎么提币到钱包](/posts/binance-withdraw/)：地址、网络、白名单、手续费一次讲清
@@ -20,11 +20,15 @@ description: "币安注册、邀请码、手续费、买 USDT 的完整教程：
 - [币安怎么买比特币](/posts/binance-buy-btc/) —— 用 USDT 买 BTC 的完整流程
 - [币安怎么买以太坊](/posts/binance-buy-eth/) —— 用 USDT 买 ETH 的完整流程
 
+## 入金与充值
+
+- [币安怎么充值 USDT](/posts/binance-deposit-usdt/) —— 从钱包/别家交易所把 USDT 转进币安：网络怎么选才不丢币、哪些币要填 memo、充值进的是资金账户
+- [USDT 转账选哪个网络](/posts/usdt-network-comparison/) —— 充值/提币前先搞懂 ERC20 / TRC20 / BEP20 怎么选
+
 ## 出金与转账
 
 - [币安怎么卖 USDT 出金](/posts/binance-sell-usdt/) —— 卖 U 换人民币：C2C 出售、筛买家、冻卡风险
 - [币安怎么提币到钱包](/posts/binance-withdraw/) —— 提币总纲：账户、地址网络、白名单、T+1 冻结、手续费
-- [USDT 转账选哪个网络](/posts/usdt-network-comparison/) —— 提币前先搞懂 ERC20 / TRC20 / BEP20 怎么选
 - [USDT 转账不到账怎么排查](/posts/usdt-transfer-not-arrive/) —— 提了没到账？按四步排查
 
 ## 币安邀请码与返佣专题
