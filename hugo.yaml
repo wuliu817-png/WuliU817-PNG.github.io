@@ -25,7 +25,7 @@ params:
   description: "Swaplyn 是面向中文用户的加密货币新手教程站，专注把每一步操作讲清楚：币安、OKX 注册开户与 KYC，现货合约手续费与返佣，USDT 转账选网络，钱包 Swap 兑换，以及新手最容易踩的坑。重要规则注明核验时间，涉及实测的内容明确标注。"
   # 首页 <title> 用更长的描述性标题（Bing 提示标题过短），其余页面仍用「页面标题 | 站点名」
   homeTitle: "Swaplyn｜币安、USDT、钱包与 Swap 新手操作教程"
-  author: Swaplyn
+  author: Wenlin
 
   # 站点 Logo：图标（内联 SVG，渐变底 + 换币箭头）+ 文字
   label:
@@ -42,7 +42,7 @@ params:
   # 首页显示
   homeInfoParams:
     Title: "加密货币新手操作指南"
-    Content: "从币安注册、买 USDT，到转账、钱包与 Swap，把每一个容易出错的步骤讲清楚。"
+    Content: "我是 Wenlin，这里记录我使用交易所、USDT 和链上钱包时遇到的问题，以及我自己验证过的解决方法。"
 
   # 社交链接（可以先空着，后面再加）
   socialIcons: []
