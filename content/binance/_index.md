@@ -9,7 +9,7 @@ description: "币安注册、邀请码、手续费、买 USDT 的完整教程：
 
 1. 先注册 —— [币安注册教程](/posts/binance-register-guide/)：开户、KYC、充值买 U、安全设置
 2. 买第一笔 USDT —— [币安怎么买 USDT](/posts/binance-buy-usdt/)：C2C 买币、快捷区/自选区、付款红线与 T+1 提现限制（手上已有 USDT，直接看[币安怎么充值 USDT](/posts/binance-deposit-usdt/)）
-3. 搞懂手续费 —— [币安手续费是多少](/posts/binance-fees/)：现货、合约、提币费率与省钱算法
+3. 搞懂手续费 —— [币安手续费是多少](/posts/binance-fees/)：现货、合约、提币费率与省钱算法（做合约的，再深挖[币安合约手续费怎么算](/posts/binance-futures-fees/)）
 4. 学现货买卖 —— [币安现货交易怎么操作](/posts/binance-spot-trading/)：现货是什么、买入卖出、四类订单
 5. 提到自己的钱包 —— [币安怎么提币到钱包](/posts/binance-withdraw/)：地址、网络、白名单、手续费一次讲清
 6. 换成人民币出金 —— [币安怎么卖 USDT](/posts/binance-sell-usdt/)：C2C 卖出、筛买家、冻卡风险
@@ -44,5 +44,6 @@ description: "币安注册、邀请码、手续费、买 USDT 的完整教程：
 
 ## 更多币安内容
 
+- [币安合约手续费怎么算](/posts/binance-futures-fees/) —— 交易手续费、资金费率、强平费三笔钱 + U本位/币本位区别
 - [币安 vs OKX 深度对比](/posts/binance-vs-okx/)
 - [币安买美股靠谱吗](/posts/binance-us-stocks-2026/)
