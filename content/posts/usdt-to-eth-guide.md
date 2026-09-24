@@ -281,7 +281,7 @@ USDT 兑换 ETH 不复杂，选对适合自己的方式就行：
 - [Swap 是什么意思？链上兑换和交易所交易有什么区别](/posts/what-is-crypto-swap/) — 兑换基础概念一次讲清
 - [ETH 怎么换 USDT？钱包兑换教程](/posts/eth-to-usdt-guide/) — 反向兑换流程
 - [USDT 转账选哪个网络？ERC20、TRC20、BEP20 区别](/posts/usdt-network-comparison/) — 搞清楚网络怎么选
-- [OKX 欧意注册教程 2026](/posts/okx-register-guide/) — 手把手 OKX 开户指南
+- [OKX 欧易注册教程 2026](/posts/okx-register-guide/) — 手把手 OKX 开户指南
 - [币安注册教程 2026](/posts/binance-register-guide/) — 手把手币安开户指南
 
 **参考来源：**

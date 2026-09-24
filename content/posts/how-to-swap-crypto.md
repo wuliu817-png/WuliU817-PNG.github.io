@@ -295,7 +295,7 @@ OKX Web3 钱包也有内置兑换，费率以页面显示为准，本文不替�
 - [ETH 怎么换 USDT？钱包兑换教程](/posts/eth-to-usdt-guide/) — 反向兑换 + 变现场景
 - [USDT 转账选哪个网络？ERC20、TRC20、BEP20 区别](/posts/usdt-network-comparison/) — 搞清楚链和链的区别
 - [MetaMask 怎么兑换币？内置 Swap 的 0.875% 值不值得付](/posts/metamask-swap-guide/) — 钱包内置兑换的费率真相与决策标准
-- [OKX 欧意注册教程 2026](/posts/okx-register-guide/) — 走交易所路径时的开户指南
+- [OKX 欧易注册教程 2026](/posts/okx-register-guide/) — 走交易所路径时的开户指南
 - [币安注册教程 2026](/posts/binance-register-guide/) — 币安开户 + 提币流程
 
 **参考来源（数据核对依据）：**

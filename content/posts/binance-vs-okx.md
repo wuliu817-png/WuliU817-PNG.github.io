@@ -17,7 +17,7 @@ slug: "binance-vs-okx"
 
 ## 核心对比总览 {#核心对比}
 
-| 对比维度 | 🔶 币安 Binance | 🔷 OKX 欧意 | 优胜 |
+| 对比维度 | 🔶 币安 Binance | 🔷 OKX 欧易 | 优胜 |
 |---------|---------------|-----------|------|
 | 成立时间 | 2017年 | 2017年 | 平 |
 | 全球排名 | 🥇 第1 | 🥉 前3 | 币安 |
@@ -55,7 +55,7 @@ slug: "binance-vs-okx"
 
 | 对比项 | 币安 (BN1200) | OKX (OK800) |
 |-------|------------|------------|
-| 手续费返佣 | 最高20% | 最高40% |
+| 手续费返佣（受邀人） | 最高20% | 最高20% |
 | 邀请码 | **BN1200** | **OK800** |
 | 补填邀请码 | ❌ 不支持 | ❌ 不支持 |
 
@@ -165,8 +165,9 @@ slug: "binance-vs-okx"
 **相关阅读：**
 
 - [币安注册教程](/posts/binance-register-guide/) — 手把手币安开户指南
-- [OKX欧意注册教程](/posts/okx-register-guide/) — 手把手 OKX 开户指南
+- [OKX欧易注册教程](/posts/okx-register-guide/) — 手把手 OKX 开户指南
 - [币安邀请码 2026 最新](/posts/binance-referral-code/) — 两家注册都别漏填邀请码（BN1200 / OK800）
+- [OKX 邀请码 2026 最新](/posts/okx-referral-code/) — OK800 注册教程 + 20% 手续费返佣
 - [币安 KYC 怎么认证](/posts/binance-kyc-guide/) — 开户绕不开的实名认证
 - [币安怎么买 USDT](/posts/binance-buy-usdt/) — 注册后第一件事：人民币买 U
 - [币安怎么买比特币](/posts/binance-buy-btc/) — 买完 U，用它买 BTC

@@ -204,7 +204,7 @@ Swap 本身是成熟的链上操作，但「币在自己手里」是一把双刃
 - [USDT 转账选哪个网络？ERC20、TRC20、BEP20 区别](/posts/usdt-network-comparison/) — 换币前先搞懂网络
 - [USDT 怎么兑换 ETH？完整教程与手续费说明](/posts/usdt-to-eth-guide/) — 具体换币教程
 - [币安注册教程 2026](/posts/binance-register-guide/) — 交易所开户流程
-- [OKX 欧意注册教程 2026](/posts/okx-register-guide/) — 交易所开户流程
+- [OKX 欧易注册教程 2026](/posts/okx-register-guide/) — 交易所开户流程
 
 **参考来源：**
 

@@ -301,7 +301,7 @@ MetaMask 现在是真多链钱包了：Solana（2025 年 7 月）、Bitcoin（20
 - [USDT 转账选哪个网络？ERC20、TRC20、BEP20 区别](/posts/usdt-network-comparison/) — 换币前先确认链
 - [USDT 怎么兑换 ETH？完整教程与手续费说明](/posts/usdt-to-eth-guide/) — 最高频兑换对的具体操作
 - [ETH 怎么换 USDT？钱包兑换教程](/posts/eth-to-usdt-guide/) — 变现场景的完整决策
-- [OKX 欧意注册教程 2026](/posts/okx-register-guide/) — 走交易所路径时的开户指南
+- [OKX 欧易注册教程 2026](/posts/okx-register-guide/) — 走交易所路径时的开户指南
 
 **参考来源（数据核对依据）：**
 
