@@ -7,6 +7,7 @@ description: "币安注册、邀请码、手续费、买 USDT 的完整教程：
 
 ## 推荐学习路径
 
+0. 先搞清要准备多少钱 —— [币安注册需要多少钱](/posts/binance-minimum-to-start/)：开户免费，充值、买币、交易三套门槛
 1. 先注册 —— [币安注册教程](/posts/binance-register-guide/)：开户、KYC、充值买 U、安全设置
 2. 买第一笔 USDT —— [币安怎么买 USDT](/posts/binance-buy-usdt/)：C2C 买币、快捷区/自选区、付款红线与 T+1 提现限制（手上已有 USDT，直接看[币安怎么充值 USDT](/posts/binance-deposit-usdt/)）
 3. 搞懂手续费 —— [币安手续费是多少](/posts/binance-fees/)：现货、合约、提币费率与省钱算法（做合约的，再深挖[币安合约手续费怎么算](/posts/binance-futures-fees/)）
