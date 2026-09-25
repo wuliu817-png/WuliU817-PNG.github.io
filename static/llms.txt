@@ -31,10 +31,22 @@ Swaplyn（swaplyn.com）是一份中文加密货币新手教程。内容聚焦�
 - [币安怎么买比特币？USDT 买 BTC 现货教程（2026）](https://swaplyn.com/posts/binance-buy-btc/)：先 C2C 买 USDT、再划转到现货账户用 USDT 买 BTC；市价单/限价单怎么选与滑点、0.1% 手续费与 BNB 抵扣、买完放交易所还是提钱包
 - [币安怎么买以太坊？USDT 买 ETH 现货教程（2026）](https://swaplyn.com/posts/binance-buy-eth/)：先 C2C 买 USDT、再划转到现货账户用 USDT 买 ETH；市价单/限价单怎么选与滑点、0.1% 手续费与 BNB 抵扣，以及 ETH 提币多网络选错的坑
 
+- [币安现货交易怎么操作？买入、卖出、4 类订单一次讲清（2026）](https://swaplyn.com/posts/binance-spot-trading/)：现货和合约的区别、交易对怎么读、市价/限价/止损四类订单，挂单吃单谁更省
+- [币安怎么提币到钱包？地址、网络、手续费 + 6 个避坑（2026）](https://swaplyn.com/posts/binance-withdraw/)：提币总纲——地址网络双核对、白名单冷却期、T+1 冻结、提到钱包 vs 别所的区别
+- [币安怎么卖 USDT 提现？C2C 出金到银行卡/支付宝 + 5 个避坑（2026）](https://swaplyn.com/posts/binance-sell-usdt/)：卖 U 换人民币——筛买家、确认到账再放币、严选区赔付、冻卡降险
+- [币安提币不到账怎么办？看提币状态、查 TXID + 6 个原因排查（2026）](https://swaplyn.com/posts/binance-withdraw-not-arrive/)：先看提币记录状态，再按风控、白名单、T+1、网络、memo 六个原因排查
+- [币安 C2C 付款后卖家不放币怎么办？申诉 + 3 种结果（2026）](https://swaplyn.com/posts/binance-c2c-seller-not-release/)：申诉入口和证据、官方 3 类处理方向，以及精确条款仅适用非 CNY 交易
+- [币安怎么充值 USDT？链上充值步骤 + 网络怎么选才不丢币（2026）](https://swaplyn.com/posts/binance-deposit-usdt/)：充值进的是现货账户还是资金账户、网络要跟「对方」一致、哪些币必须填 memo/tag
+- [币安合约手续费怎么算？U本位/币本位费率、资金费、强平费一次算清（2026）](https://swaplyn.com/posts/binance-futures-fees/)：合约是交易费 + 资金费 + 强平费三类成本，不是 0.02%/0.05% 一个数，按名义价值算
+- [币安买币后钱在哪里？资金账户和现货账户区别 + 划转方法（2026 迁移新规）](https://swaplyn.com/posts/binance-funding-vs-spot-account/)：三个账户口袋区别 + 2026-09-29 资金账户迁移现货账户新规
+- [OKX 欧易邀请码 2026 最新：OK800 注册教程 + 20% 手续费返佣](https://swaplyn.com/posts/okx-referral-code/)：OK800 返佣怎么算、在哪里填、能不能补填，以及「40%/50% 返佣」是什么意思
+- [币安注册需要多少钱？开户免费，充值、买币、交易三套门槛一次讲清（2026）](https://swaplyn.com/posts/binance-minimum-to-start/)：注册和 KYC 免费，但充值、买币、现货交易是四套不同的最低金额规则，别再信「最低 10 美元」一句话
+
 ### 入门教程
 
 - [币圈新人入门：从零开始的加密货币之旅](https://swaplyn.com/posts/crypto-beginner-guide/)：比特币是什么、怎么安全开始投资
 - [加密货币钱包安全：助记词保管、授权撤销与防盗（2026）](https://swaplyn.com/posts/crypto-wallet-security/)：四个概念分清、助记词离线保管、签名与授权撤销、转账前核对、被盗分情况处理
+- [钱包授权（Approve）是什么？怎么查、怎么撤销（2026）](https://swaplyn.com/posts/wallet-approval-revoke/)：approve 是合约动用你代币的许可，无限授权是隐患；用 revoke.cash 查和撤销
 
 ### 加密货币兑换指南
 
