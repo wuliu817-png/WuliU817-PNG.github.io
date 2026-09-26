@@ -29,6 +29,7 @@ description: "币安注册、邀请码、手续费、买 USDT 的完整教程：
 ## 出金与转账
 
 - [币安怎么卖 USDT 出金](/posts/binance-sell-usdt/) —— 卖 U 换人民币：C2C 出售、筛买家、冻卡风险
+- [币安 C2C 快捷区、自选区、严选区有什么区别](/posts/binance-c2c-zones/) —— 买币卖币选哪个区：严选区只卖币、100% 赔付有前提
 - [币安怎么提币到钱包](/posts/binance-withdraw/) —— 提币总纲：账户、地址网络、白名单、T+1 冻结、手续费
 - [USDT 转账不到账怎么排查](/posts/usdt-transfer-not-arrive/) —— 提了没到账？按四步排查
 

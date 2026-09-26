@@ -41,6 +41,7 @@ Swaplyn（swaplyn.com）是一份中文加密货币新手教程。内容聚焦�
 - [币安买币后钱在哪里？资金账户和现货账户区别 + 划转方法（2026 迁移新规）](https://swaplyn.com/posts/binance-funding-vs-spot-account/)：三个账户口袋区别 + 2026-09-29 资金账户迁移现货账户新规
 - [OKX 欧易邀请码 2026 最新：OK800 注册教程 + 20% 手续费返佣](https://swaplyn.com/posts/okx-referral-code/)：OK800 返佣怎么算、在哪里填、能不能补填，以及「40%/50% 返佣」是什么意思
 - [币安注册需要多少钱？开户免费，充值、买币、交易三套门槛一次讲清（2026）](https://swaplyn.com/posts/binance-minimum-to-start/)：注册和 KYC 免费，但充值、买币、现货交易是四套不同的最低金额规则，别再信「最低 10 美元」一句话
+- [币安 C2C 快捷区、自选区、严选区有什么区别？买币卖币怎么选（2026）](https://swaplyn.com/posts/binance-c2c-zones/)：三区区别 + 严选区只卖币、100% 赔付每笔上限 100,000 USDT、赔付需 6 个月司法冻结、自选区严选商家广告同样适用赔付
 
 ### 入门教程
 
